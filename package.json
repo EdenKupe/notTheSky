@@ -8,7 +8,7 @@
     "clean": "rm -rf dist",
     "eleventy:default": "eleventy",
     "eleventy:watch": "eleventy --watch",
-    "styles:prod": "node-sass src/styles/ --output dist/styles/ && postcss ./dist/styles/*.css --replace",
+    "styles:prod": "",
     "styles:dev": "node-sass src/styles/ --output dist/styles/ --source-map true --source-map-contents true && postcss ./dist/styles/*.css --replace",
     "scripts:prod": "webpack --mode=production",
     "scripts:dev": "webpack --mode=development",
