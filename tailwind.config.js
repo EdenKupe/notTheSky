@@ -11,8 +11,15 @@ module.exports = {
     },
     colors: {
       transparent: 'transparent',
+      label: '#C9ACC2',
+      link: '#3D404A',
+      visited: '#98A0B8',
+      bold: '#C9ACC2',
 
-      black: '#000',
+      black: {
+        default: '#11101e',
+        link: '#3D404A',
+      },
       white: '#fff',
 
       gray: {
@@ -91,6 +98,7 @@ module.exports = {
         700: '#2b6cb0',
         800: '#2c5282',
         900: '#2a4365',
+        base: '#03536a',
       },
       indigo: {
         100: '#ebf4ff',

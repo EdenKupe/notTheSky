@@ -1,24 +1,49 @@
-<!doctype html>
-<html lang="en" class="no-js">
-<head>
-  <meta charset="utf-8">
-  <script>
-    document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + 'has-js ';
-  </script>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ renderData.description or description or metadata.description }}">
-  <meta name="generator" content="Eleventy">
-
-  <title>{{ renderData.title or title or metadata.title }}</title>
-
-  <link rel="stylesheet" href="styles/index.css">
-</head>
-
-<body class="font-sans" id="top" itemscope itemtype="http://schema.org/WebPage">
-  
+  <!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+  <head>
+    <meta charset="utf-8">
+    <meta property="og:image" content="https://github.com/EdenKupe/notTheSky/blob/master/img/tree.jpg?raw=true" />
+    <meta property="og:image:width" content="450"/>
+    <meta property="og:image:height" content="298"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Not the Sky</title>
+    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+    <link rel="stylesheet" href="{{ '/styles/index.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="shortcut icon" href="{{ '/favicon.ico' | url }}">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/95df9abb02.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  </head>
+  <body>
   {{ content | safe }}
-  
-  <script src="scripts/index.js"></script>
-</body>
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+<script>
+  let quotes = [
+    '"I watched the spinning stars, grateful, sad and proud, as only a man who has outlived his destiny and realizes he might yet forge himself another, can be" - Roger Zelazny',
+    '"Truth, as ever, avoids the stranger" - Ursula K. Le Guin',
+    '"Have I said that time turns our lies into truths?" - Gene Wolfe',
+    '"Don’t go chattering to the stars if you’re going to do it with your eyes closed" - Samuel R. Delany',
+    '"Dilemma of a civilized man; body mobilized but danger obscure" - Philip K. Dick'
+  ]
 
+  function randomQuote() {
+    var currentQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    document.getElementById('quoteContainer').innerHTML = currentQuote;
+  }
+
+  randomQuote();
+
+</script>
+</body>
 </html>

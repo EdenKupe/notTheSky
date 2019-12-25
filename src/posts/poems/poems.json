@@ -1,0 +1,6 @@
+{
+    "layout": "layouts/poems.njk",
+    "tags": [
+      "poems"
+    ]
+}

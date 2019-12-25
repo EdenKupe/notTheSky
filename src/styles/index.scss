@@ -1,22 +1,122 @@
 @tailwind base;
-@tailwind components;
-@tailwind utilities;
 
-$var:#94a8a7;
+html {
+  font-family: "Montserrat", "Open Sans", Arial, Helvetica, sans-serif;
+  @apply h-full;
+}
 
 body {
-  /* Just to show that you can mix SASS and Tailwind directives */
-  background-color: $var;
+  @apply flex flex-col text-white bg-blue-base h-full;
 }
 
-/* Tailwind @apply directives will be processed by PostCSS after the SASS rendering takes place */
-
-a { @apply text-blue-600 no-underline border-b-2 border-blue-200 }
-a:hover { @apply text-blue-800 border-blue-600 }
-
-.list li {
-  @apply list-disc
+a {
+  @apply text-bold underline;
 }
 
-h1,h2 { @apply font-black }
-h3 { @apply font-bold }
+// a:visited {
+//   @apply text-visited underline;
+// }
+
+iframe {
+  @apply w-1/2;
+}
+b, strong {
+  @apply text-bold;
+}
+
+#postWrapper {
+  @apply flex flex-col h-full justify-between;
+}
+
+#mainList {
+  @apply h-full flex flex-col justify-center p-12 fixed w-1/6;
+  background-color: #03536a;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80' width='80' height='80'%3E%3Cpath fill='%23ffffff' fill-opacity='0.1' d='M14 16H9v-2h5V9.87a4 4 0 1 1 2 0V14h5v2h-5v15.95A10 10 0 0 0 23.66 27l-3.46-2 8.2-2.2-2.9 5a12 12 0 0 1-21 0l-2.89-5 8.2 2.2-3.47 2A10 10 0 0 0 14 31.95V16zm40 40h-5v-2h5v-4.13a4 4 0 1 1 2 0V54h5v2h-5v15.95A10 10 0 0 0 63.66 67l-3.47-2 8.2-2.2-2.88 5a12 12 0 0 1-21.02 0l-2.88-5 8.2 2.2-3.47 2A10 10 0 0 0 54 71.95V56zm-39 6a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm40-40a2 2 0 1 1 0-4 2 2 0 0 1 0 4zM15 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm40 40a2 2 0 1 0 0-4 2 2 0 0 0 0 4z'%3E%3C/path%3E%3C/svg%3E");
+}
+
+#mainList a {
+  @apply text-white text-2xl mt-6;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient( to right, #C9ACC2, #C9ACC2 50%, #FFF 50%);
+  background-size: 200% 100%;
+  background-position: 100%;
+}
+
+#mainList a svg {
+  width: 35px;
+}
+
+#postContent {
+  @apply text-center p-64 pt-4 flex flex-col items-center mt-4;
+}
+
+#postContent ul {
+  @apply text-left text-xl w-7/12;
+}
+
+#postContent ul a {
+  @apply text-white underline;
+}
+
+.fa-moon {
+  @apply mr-4 text-bold;
+}
+
+#postContent p {
+  @apply text-left text-xl w-7/12 mt-4 mb-4;
+}
+
+h2 {
+  @apply text-white text-6xl;
+}
+
+#mainList li {
+  @apply flex items-baseline w-1;
+}
+
+.label {
+  @apply m-2 bg-label rounded-sm text-white hidden invisible text-sm  opacity-0 p-1 whitespace-no-wrap;
+  -webkit-transform: none;
+  -o-transform: none;
+  transform: none;
+  -webkit-transform: translateY(.5em);
+  -o-transform: translateY(.5em);
+  transform: translateY(.5em);
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease;
+  display: block;
+}
+
+.label::before {
+  border-bottom: 5px solid transparent;
+  border-right: 5px solid #C9ACC2;
+  border-top: 5px solid transparent;
+  content: "";
+  height: 0;
+  margin-top: -5px;
+  position: absolute;
+  right: 100%;
+  top: 50%;
+  width: 0;
+}
+
+li:hover .label {
+  opacity: 1;
+  visibility: visible;
+  -webkit-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#backIndex {
+  @apply w-1/2 text-label mt-4 self-center;
+}
+
+#postFooter {
+  @apply w-1/2 self-center flex flex-col text-center text-sm;
+}
+
+@tailwind components;
+@tailwind utilities;
