@@ -49,15 +49,6 @@ b, strong {
   @apply text-left text-xl w-7/12;
 }
 
-#postContent ul#collectionList {
-  text-align: center;
-  margin-bottom: 2rem;
-}
-
-#postContent ul#collectionList li {
-  display: inline-block;
-}
-
 #postContent ul a {
   @apply text-white underline;
 }
