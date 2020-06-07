@@ -1,0 +1,6 @@
+{
+    "layout": "layouts/augmented.njk",
+    "tags": [
+      "augmented"
+    ]
+}

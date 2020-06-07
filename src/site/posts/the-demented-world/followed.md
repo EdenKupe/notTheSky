@@ -1,0 +1,16 @@
+---
+
+title: Followed 
+date: 2013-12-14
+
+---
+
+
+
+Followed am I through the tears of wretched fogs, hunted along paths that I have set myself. Silently, I figure that the stars in their random motions will hide me if I only turn *so*, if only gesture *thus*, if I only end *there*. But the doing, the doing is a different matter. When the hounds are silent is when fear rises for followed I am across the stepping stones of my own trepidation. Bewildered, I tumble like a Sufi mystic, flowing white robes stained by the hands of cliche gods, unfurled at the whim of over-told winds, bereft at the edges of endless tapestries that mean nothing. And so, onward I pace while above me a burning void beckons, offering child-like hands for the caressing, forgotten-like eyes for the wondering, ending-like bones for collecting. Feeling the flames that burn above, I struggle to keep my eyes on the path.
+
+Finally, sweat overcomes me. The pulsating waves which are my own emotions being burned, being digested, being fabricated, surround me on all battled edges. To my knees falling I come, like a supplicant before the discarded totem of his own memory. And everywhere, as if by magic, the burning void awaits me. I am surrounded but not pressured, caged but not against my will. Faintly, I feel my heart beating a tiny staccato, a foxtrot of the soul, the last waltz of resistance. I should have a sword, thinks I, a fine thing. I would attempt to draw it in a last gesture of defiance, only to fall at the feet of this corroding statue. My skin would be porcelain then, feeding off the flames, discarded. But there is no sword. The path buckles beneath my fingers and I realize I am not done. Rising to aching knees, I look around me for direction. Yes, the stones still stretch to some horizons, still attempt to hug the impossible inner distance of my words. Well then, if a road presents itself, who am I not to follow?
+
+Followed am I through the veils of clutching faces, chased along dreams that I have burnt myself. With a shout, I exhort the stars to release their random secrets that will reveal me if I only turn *so, *if only gesture *thus, *if only end *here. *But the singing, the singing is a different matter. When the choir is silent is when hope rises for followed I am across the threshold of my homestead. Liberated, I tumble like a lost child, flowing white robes stained by the hands of self-murdered gods, unfurled at the whim of never-spoken winds, bereft at the beginning of an endless tapestry that means everything. And so, backwards I turn while above me a burning void embraces me, offering child-like hands for the escape, forgotten-like eyes for the finding, ending-like bones for burying. Feeling the flames that burn above, I struggle to tear my eyes from the path.
+
+Followed am I. I feel my own icy breath on the back of my neck. Serpent images are beckoned from the deep. Eyes turn inwards, knees turn downwards, body crashes forward. Supplicant, I give praise to my own firestarter, to my own fuel cord, to my own match. The flames flicker out. The void is restored. And in its center:

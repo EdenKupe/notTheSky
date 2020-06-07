@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+<div id="postWrapper">
+      {%- include "sidebar.html" -%}
+  <div id="postContent">
+    <h2>{{ title }}</h2>
+    {{ content | safe }}
+  </div>
+  {%- include "footer.html" -%}
+</div>

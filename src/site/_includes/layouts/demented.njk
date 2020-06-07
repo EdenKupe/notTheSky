@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<div id="postWrapper">
+  {%- include "sidebar.html" -%}
+  <div id="postContent">
+    <h2>{{ title }}</h2>
+    {{ content | safe }}
+    {%- if title != "The Demented World" -%}
+      <a id="backIndex" class="backNihilo" href="/posts/{{ 'The Demented World Index' | slug }}">Back to The Demented World</a>
+    {%- endif -%}
+  </div>
+
+  {%- include "footer.html" -%}
+</div>

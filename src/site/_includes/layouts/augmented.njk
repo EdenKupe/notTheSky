@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<div id="postWrapper">
+      {%- include "sidebar.html" -%}
+  <div id="postContent">
+    <h2>{{ title }}</h2>
+    {{ content | safe }}
+      {%- if title != "The Augmented World" -%}
+      <a id="backIndex" class="backAugmented" href="/posts/{{ 'The Augmented World Index' | slug }}">Back to The Augmented World</a>
+      {%- endif -%}
+  </div>
+  {%- include "footer.html" -%}
+</div>

@@ -1,0 +1,18 @@
+---
+
+title: The Crimson Rope 
+date: 2013-10-16
+
+---
+
+
+
+I should learn how to keep some things hidden. I once encountered letters carved in stone, on a side path somewhere, that read "they paint not in light, but in shadow". This sentence has plagued me ever since, especially now that I am floating, not surrounded by any water or other forms of embrace. I feel as though I suffer acute hypothermia, not an uncomfortable sensation. Hypothermia of the need to share, a bleeding of things inside into a depressurized outside, an escaping of troubled radicals into a stagnated void. Picture a thin trail of blood leaving my side, snaking through a black on black void. Red. Painful red. The thread twists and bites, like a core unleashed. The current, my inside. The flow, my pain. The medium, words. The point, missing.
+
+In this void, few rules are maintained. The awful, relentless, impossible cliche that all actions must have reactions, is not maintained. That rule was the first thing chucked, the first magic written on discarded clay and then burned in the fires of the stars. Few rules though have survived the inexorable transition that was forced upon this space. Power is inverted, meaning is optional, cold is lasting. Into this triangle, my crimson snake, the cord that cannot be broken, the caudal lure is lowered. What prey do I call? What endings do I flirt with, in placing such integral doorways into my own void, bare and open to all who would tread it?
+
+This is a far cry. We are long detached from the books and corners, long come down, past the stepping stones, over the breaching wall. But I persist. Why do you? Reader, I must address you. I feel as if a great injustice is being done to you, you the holder of the crimson line, you that tugs on my sides, goads my ribs and coats my current, my ever-flow outside. Can you feel the cold, reader? Can you feel the inversion of power, the optionallity of meaning? This is my madness: I keep clawing at my head, at my scalp, at the place between my ribs where the cord connects. Do you know? Can you feel? Will you tread my integral doorways, left open for you? Why would you?
+
+This is the absurdity of all of this, one I grow weary of retracing. No matter how many doorways I leave open, what current I launch through the crimson cord, I don't want you to follow. Inaccurate. There is a part of me that doesn't want you to follow. All my other parts create this rambling, draw the cord, tear the doorway, inverse the power, optionalize the meaning. But there is one part that is shivering right now, in a cold wind that enters from the window to the void. It crumbles into itself, it is plagued by goosebumps, it shudders in the wake of your breath. The memory of the wake, the slightest potential that you will enter. A pointless game but one which I cannot stop.
+
+I don't have the rules for stopping, only for going. And so, I go. I play my turn, moving worn out pieces on a yellowed board, floating through the void. Such colors! Red, yellow, black, blue, ocher, sadness, pink, indigo, fear, madness, pain, vermilion. While the part of me that is most me shivers, bewildered in the barrage of colors and emotions, cradled in the swooning motion of the stars. Look, the door is open. Follow it please don't come in will you oh god stay out no enter come inside never please leave me alone i am waiting for you don't take the first step inside i've left the door open don't use it tread the path please please please don't. Don't.

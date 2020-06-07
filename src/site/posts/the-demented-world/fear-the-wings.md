@@ -1,0 +1,18 @@
+---
+
+title: Fear the Wings 
+date: 2013-08-17
+
+---
+
+
+
+I am now internalized. The processes which lead me to look outwards are no longer running, although their derelict corpses are still fuming with the hot metals that powered them. Was it the green fumes of their expulsion, the silvery haze of their denial, that originally ejected me from the outside world and injected me into my own arc? There will be many questions forthcoming, even more than in the ocean, but I do not think that the chances of answers erupting from between this void and my void are high. There is only one thing that can be described as high here and that is the static that is engulfing the breach between my void and the void, between my body and silence. Where am I? There are only drunken stars, liquid filled chalices that brim over with aching and pain and longing and broken parts which only fit too well. Everything fits too well. Wasn't silence supposed to be foreboding, wasn't fear supposed to be, well, a thing you should fear?
+
+I was told so many things.  And all those things have squatted, taken residence in my void, struck roots into the firmament of my imaginings. And thus, all self-shadows become fearful daggers, all self-towers became derelict hulks, all self-tears become rivers of molten hearts, fields of ravaged stories, plains of murky deals. Traitors of shattered dreams. In the coming and goings of this flowing bickering, I was once lost. The problem is not that. The problem is that I have been found, found myself. It all fits too well. It's like my arms have been gnawed on by horrid beasts, a painful experience no doubt. But the worst thing is not the blood that flows, or the pain that jabs or the loss of ability or the fear of a disabled future: it's that the gnawed edges fit into the holes I find all around me, as if the same beast that has fed on me has also fed on the world and we, two shattered dancers that we are, come together beautifully, like a piece made for a puzzle or a sword made for the heart. And in that connection, I want to rejoice. But in the last moment, right before we connect, I can feel the betrayal. The holes fit too well, the silent hiss of joining is too forced, everything smells just like it should. It smells of an orchestra, built just for me, that lulls me into who I should be and will not.
+
+And in the end, what is there to fear? Why should I dread the pulsating stars that silently bow towards a forgotten center, as if of silk fly on a broken wind, dancing to the gestures of my gnawed hands that seamlessly fit into the holes all around me? I was told so many things, but I find that they are all correct, and this is what bothers me most of all. I want to know they are wrong, but I no longer have the capacity for that, like the crippled-me from before, dreading the disabled future with no hands. What is there to fear? This is what I must answer and cannot, this is the word that must complete the sentence but will not, since the syntax of this place, this "the void" cannot contain such actions, cannot accentuate such syllables.  At least before, I had tools, I had ways to describe what it felt like when the water was clawing my throat. The essence of this mount: when I was in the ocean all seemed broken but hadn't even begun to break. Now that all is mended, it seems as if it hasn't even begun to break but all is broken.
+
+What is there to fear? Weren't you fucking listening when I was drowning in the ocean? Maybe now that I'm in my void, the certain answer I have wretched might echo more:
+
+Wings. Fear the wings.
