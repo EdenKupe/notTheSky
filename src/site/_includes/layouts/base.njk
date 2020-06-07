@@ -1,24 +1,52 @@
-<!doctype html>
-<html lang="en">
+  <!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
   <head>
     <meta charset="utf-8">
+    <meta name="keywords" content="Eden Kupermintz, blog, science fiction, magic realism, poetry, prose, short stories, the ocean, dreams, space, fantasy, magic, urbanism">
+    <meta property="og:image" content="https://github.com/EdenKupe/notTheSky/blob/master/img/tree.jpg?raw=true" />
+    <meta property="og:image:width" content="450"/>
+    <meta property="og:image:height" content="298"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
     <link rel="stylesheet" href="/css/styles.css">
-    <title>{{ title }}</title>
-    {% include "social.njk" %}
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="shortcut icon" href="{{ 'https://github.com/EdenKupe/notTheSky/blob/master/moon-solid.png?raw=true' | url }}">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/95df9abb02.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
-  <body class="container mx-auto mb-12 lg:max-w-4xl text-gray-700">
-    {% include "header.njk" %}
-    <div class="content leading-relaxed">
-      {{ content | safe }}
-    </div>
-    {% set js %}
-      {% include "js/core.js" %}
-      {% include "js/hello.js" %}
-    {% endset %}
-    <script>{{ js | jsmin | safe }}</script>
-  </body>
+  <body>
+  {{ content | safe }}
+  <script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+<script>
+  let quotes = [
+    '"Symbols, by their very nature, conceal as well as indicate, damn them!" - Roger Zelazny',
+    '"Truth, as ever, avoids the stranger" - Ursula K. Le Guin',
+    '"Have I said that time turns our lies into truths?" - Gene Wolfe',
+    '"Don’t go chattering to the stars if you’re going to do it with your eyes closed" - Samuel R. Delany',
+    '"Dilemma of a civilized man; body mobilized but danger obscure" - Philip K. Dick',
+    '"-but beauty is more now than dying’s when" - e.e.cummings',
+    '"In a totally sane society, madness is the only freedom." - J.G. Ballard'
+  ]
+
+  function randomQuote() {
+    var currentQuote = quotes[Math.floor(Math.random() * quotes.length)];
+    document.getElementById('quoteContainer').innerHTML = currentQuote;
+  }
+
+  randomQuote();
+
+</script>
+</body>
 </html>
-
-
-
