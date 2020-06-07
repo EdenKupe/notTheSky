@@ -45,10 +45,6 @@ b, strong {
   @apply text-center pt-4 flex flex-col items-center mt-4;
 }
 
-#postContent ul {
-  @apply text-left text-xl w-7/12;
-}
-
 #postContent ul a {
   @apply text-white underline;
 }
