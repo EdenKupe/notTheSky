@@ -24,6 +24,10 @@ b, strong {
   @apply text-center mb-8 text-xl w-7/12;
 }
 
+#collectionList li {
+  display: inline;
+}
+
 #postWrapper {
   @apply flex flex-col h-full justify-between;
 }

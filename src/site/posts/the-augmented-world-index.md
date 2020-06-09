@@ -3,9 +3,9 @@ title: The Augmented World
 layout: layouts/augmented.njk
 ---
 
-<ul id="collectionList" class="text-center mb-8 text-left text-xl w-7/12">
+<ul id="collectionList" class="">
 {%- for post in collections.augmented -%}
-  <li class="inline-block"><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+  <li><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>
 
