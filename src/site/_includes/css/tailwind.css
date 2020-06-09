@@ -2,6 +2,7 @@
 @tailwind  base;
 /* purgecss end ignore */
 
+/* purgecss start ignore */
 html {
   font-family: "Montserrat", "Open Sans", Arial, Helvetica, sans-serif;
   @apply h-auto;
@@ -216,6 +217,7 @@ hr {
     width: 240px !important;
   }
 }
+/* purgecss end ignore */
 
 /* purgecss start ignore */
 @tailwind  components;
