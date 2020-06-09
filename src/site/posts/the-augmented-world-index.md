@@ -17,4 +17,4 @@ But then, in 2017, I started **The Augmented World**. I didn’t intend it as a 
 
 Thus, **The Augmented World** is my attempt to imagine a more beautiful world, made beautiful because it has ugliness within it. It’s an attempt to reconnect with a naive, hopeful, gleeful side of myself. It’s also what I mentioned above; an homage to the greats of the genre and a place for me to let my flights of fancy take shape.
 
-Below, you'll find all the pieces of it. It's a work in progress. Enjoy.
+Above, you'll find all the pieces of it. It's a work in progress. Enjoy.
