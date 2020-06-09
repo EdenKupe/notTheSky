@@ -64,7 +64,7 @@ h3 {
   @apply mt-4 text-label text-2xl font-light w-1/2;
 }
 
-h4 {
+#postContent h4 {
   @apply text-center text-paragraph text-label font-bold;
 }
 
