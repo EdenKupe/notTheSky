@@ -2,12 +2,6 @@
 @tailwind  base;
 /* purgecss end ignore */
 
-/* purgecss start ignore */
-@tailwind  components;
-/* purgecss end ignore */
-
-@tailwind utilities;
-
 html {
   font-family: "Montserrat", "Open Sans", Arial, Helvetica, sans-serif;
   @apply h-auto;
@@ -21,12 +15,13 @@ a {
   @apply text-label underline;
 }
 
-/* a:visited {
-  @apply text-visited underline;
-} */
 
 b, strong {
   @apply text-label;
+}
+
+#collectionList {
+  @apply text-center mb-8 text-xl w-7/12;
 }
 
 #postWrapper {
@@ -217,3 +212,9 @@ hr {
     width: 240px !important;
   }
 }
+
+/* purgecss start ignore */
+@tailwind  components;
+/* purgecss end ignore */
+
+@tailwind utilities;
