@@ -58,8 +58,7 @@ b, strong {
 }
 
 h2 {
-  @apply text-offwhite text-6xl uppercase font-medium;
-  width: 60%;
+  @apply text-offwhite text-6xl uppercase font-medium w-2/3;
 }
 
 h3 {
