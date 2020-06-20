@@ -104,3 +104,17 @@ I love you.
 **Listen**. I love you. A distance impossible stands before us and I love you and have always loved you and will always love you.
 
 But can we love the jackal?
+
+**20.6.2020**
+
+**Listen**. Can you hear that pitter-patter at your window? That's the world curdling, that's the night being peeled away. There was a sort of rushing sound last night, as if all the trees on the planet sighed together, finally able to take a break from holding the sky up. But you were asleep, so you probably didn't notice. Didn't pay attention, lost to soothing somnolence, when the stars began to sing, ushering it all in.
+
+**Listen**. At one point in the future, when all this dismantling is done, we'll be able to rest. Eventually, when the dark has simmered down, when the light has stopped spinning, when the wind has stopped keening, we'll be able to lay down and drift away into peace. Even sleep will stop then because sleep implies a recharging; sleep implies you will one day wake.
+
+**Listen**. Can you hear that yeeping sound at your window? That's the fox and the jackal celebrating the opening of the gate. There was a sort of jubilant sound last night, as if all the rivers leapt up in dance, finally able to take a break from soothing the ground to sleep. But you were dancing, so you probably didn't notice. Didn't pay attention, lost to uplifting celebration, when the stars began to sing, ushering it all in.
+
+**Listen**. At one point in the past, when all this was just coming to be, we were able to rest. Back then, when the dark was building up, when the light started spinning, when the wind broke out in thin, chilling, loving keening, we were able to lay down and drift away in peace. Sleep was still just an idea for the poets then because sleep implied an escaping; sleep implied that, one day, all of this won't be awake.
+
+**Listen**. There's a burden that's about to lift, there's a task we're about to complete, there's a routine that will finally stop, there's a song we're meant to sing, there's a star out there that not only has your name on it but has my name on it, that has the name of everyone that ever was and that ever will be and it's not one star it's all the stars and they're singing, singing our names into an endless night, calling to us to lay down to go to sleep to rest to awake to light up to celebrate to simmer to join the fox and the jackal to cry out with the song of the flower to raise our hands and, not knowing what we do or what we speak of, to recite the words that are etched across our every cell, there right next to our heart, there right next our bones, there right next to our life.
+
+**Listen**. I love you. Happy summer solstice. 
