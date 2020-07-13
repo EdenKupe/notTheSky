@@ -1,0 +1,15 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-post
+---
+<div id="postWrapper">
+      {%- include "sidebar.html" -%}
+  <div id="postContent">
+    <h2>{{ title }}</h2>
+    {{ content | safe }}
+      {%- if title != "Sub Imbribus" -%}
+      <a id="backIndex" class="backRain" href="/posts/{{ 'Sub Imbribus Index' | slug }}">Back to Sub Imbribus</a>
+      {%- endif -%}
+  </div>
+  {%- include "footer.html" -%}
+</div>

@@ -1,7 +1,6 @@
 ---
 title: A Longing For A Home
 date: 2015-02-27
-
 ---
 
 **This is the part they rarely tell you about.**I can remember when, as a child, I used to press with the throngs against the muscular Port Guard when a ship would land. The hum of the engines was drowned in the murmur of the crowd, the gentle ease of practiced phrases of awe and hope. The Port had been open for nearly five years now and had swiftly transformed the backwater denizens of Episcopal from a people fallen from grace to a people fallen from grace and yet obsessed with hope. **The memory of solar dominance, of life never in one place, still ran in my people's blood. Or so I was told; no one was still alive that had set foot in one of the fabled cruisers our people used to make or that had gazed on stars from out of a body unchained by home-gravity.**It must have been true though, even as a child I could feel it: some sort of stirring in the blood, a faint tether hooked into my heart that pulled me away, not only in space but also in time.
