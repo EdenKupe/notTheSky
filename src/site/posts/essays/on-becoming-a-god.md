@@ -1,7 +1,7 @@
 ---
 title: On the Radical Escapism of Magic Realism
 subtitle: "or how to become a god in late capitalism"
-date: 2015-02-27
+date: 2020-07-22
 ---
 
 Magic realism can be broadly defined as the description of a space (whether in literature, art, music or other media) in which most things are "real" (that is, normal, as we know them in our world) but other things are magical. Furthermore, their magic is commonplace; it augments human actions and can lead to fantastical occurrences but doesn't fundamentally alter the imaginary space's reality. Another way to say this is that magic is mechanical or technical or even scientific. That is, that magic is governed by a set of defined rules which make it intelligible, develop-able, observable and approachable. Actions have specific, causal consequences which they lead to, even if they are fantastical or impressive. 
