@@ -4,6 +4,8 @@ subtitle: "A Praise for Lamartine"
 date: 2013-09-16
 ---
 
+*Editor's note: I wrote this **a long time ago** and there's a lot I don't agree with here. However, I like the thrust of this short essay and I hope to edit and expand it soon*
+
 "Our only truth is our sorrow"
 
 -Alphonse de Lamartine.
@@ -25,7 +27,7 @@ It flows, and we go on. "**
 
 Look closely. What does Alphonse tell us to love? "The moment on its run". A thousand times more meaningful than the foolish "Carpe Diem" that is on the lips of everyone today, the hollow statement "live in the now". There is no living in the now for Alphonse. The "now", the moment, is on **its** run. It has its own agenda, its own timing and it cares not for you. "It flows, and we go on". You can try and stay, try and live in it, but that's stupid. It's gone. All you can do, is love it.
 
-!(http://ledaber.files.wordpress.com/2013/09/462px-alphonse_de_lamartine_1.jpg)[Lamartine, 1865]
+![Lamartine, 1865](http://ledaber.files.wordpress.com/2013/09/462px-alphonse_de_lamartine_1.jpg)
 
 A mild man. Lamartine, 1865 (age 75), Albumin photograph by [Nadar](http://en.wikipedia.org/wiki/Nadar_(artist) "Nadar").
 
@@ -35,7 +37,7 @@ Alphonse's true trait was mildness. Did he understand that mildness was an answe
 
 And then he really got to work. Swimming between the political currents of the new regime, he never took office. But he led to the abolition of slavery. Read that again. Now, he also led the fight against the death penalty. Yep. He didn't stop there, forging capitalist interests and workers rights into the first legislation to recognize the right to work and a nation program of workshops, giving the multitude of France's unemployed, work. And much more. In short, he was not all talk. He was not characterized by swooping gestures of victory and then a swift disappearance, like so many of your "mighty" persons who are very good at acting but quite poor at **sustaining.**
 
-![800px-Lar9_philippo_001z](http://ledaber.files.wordpress.com/2013/09/800px-lar9_philippo_001z.jpg)]
+![800px-Lar9_philippo_001z](http://ledaber.files.wordpress.com/2013/09/800px-lar9_philippo_001z.jpg)
 
 Forging a compromise. _Lamartine in front of the Town Hall of Paris rejects the red flag on 25 February 1848 _ by [Henri Félix Emmanuel Philippoteaux ](http://en.wikipedia.org/wiki/Henri_F%C3%A9lix_Emmanuel_Philippoteaux "Henri Félix Emmanuel Philippoteaux ").
 
