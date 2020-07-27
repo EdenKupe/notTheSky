@@ -8,27 +8,14 @@
     <meta property="og:image:height" content="298"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{title}}</title>
-    <meta name="Description" content="{{ renderData.description or description or metadata.description }}">
+    <meta name="Description" content="Eden Kupermintz's personal blog containing poetry, short stories, and more!">
     <link rel="stylesheet" href="/css/styles.css">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="shortcut icon" href="{{ 'https://github.com/EdenKupe/notTheSky/blob/master/moon-solid.png?raw=true' | url }}">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700&display=swap" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/95df9abb02.js"></script>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
   {{ content | safe }}
-  <script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 <script>
   let quotes = [
     '"Symbols, by their very nature, conceal as well as indicate, damn them!" - Roger Zelazny',
@@ -48,5 +35,6 @@
   randomQuote();
 
 </script>
+<script defer src="https://kit.fontawesome.com/95df9abb02.js"></script>
 </body>
 </html>
