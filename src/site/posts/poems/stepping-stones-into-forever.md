@@ -14,7 +14,7 @@ across the spaces of my heart.
 We are alike two solar empires, vibrant, pulsing roads
 into the impossibility of space. The silk of our roads is
 the lifeblood of civilizations, the knowledge of languages,
-the *limes*of understanding. Lying in the darkness, they trade
+the *limes* of understanding. Lying in the darkness, they trade
 the smooth, ion-fueled markings of love.
 
 See, with your eyes which are sabers, the planets
@@ -29,7 +29,7 @@ the humming of commerce, the manuscripts of wisdom,
 the borders of empathy. Shining in the darkness, they exchange
 the intangible, ion-fueled markings of love.
 
-See, with your eyes which are like *épées, *the only truth which
+See, with your eyes which are like *épées*, the only truth which
 shall escape the hunger of black holes;
 shall outlast the burning of fusion-stars;
 shall imbibe the sickness of forever engines;
