@@ -3,7 +3,7 @@ title: Talks
 layout: layouts/post.njk
 ---
 
-Hey there! Over the years, I have given talks at several events and conferences. Most of them revolve around science fiction, futurism, and culture. Most of the theoretical background for these talks can be traced back to leftists, post-modern, and radical philosophy and I try to make each of my talks as radical and non-complacent as possible.
+there! Over the years, I have given talks at several events and conferences. Most of them revolve around science fiction, futurism, and culture. Most of the theoretical background for these talks can be traced back to leftists, post-modern, and radical philosophy and I try to make each of my talks as radical and non-complacent as possible.
 
 I thought it would be useful to collect all of these talks, where they were recorded, in one page. Enjoy!
 
