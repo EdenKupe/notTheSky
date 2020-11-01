@@ -130,3 +130,19 @@ But can we love the jackal?
 **Listen**. This road, the road of many voices joined in song, will always be open to you. There is no stain that can smudge the path from the bloody map which allows you that preternatural balance, that supernal key to harmony. There is no pencil that can amend the dotted line which links your throat to the throats of everyone else now alive, a line that only waits a vibratory foot to walk it. There is no fold or projection or other cartographical device that can make you forget how to get back to that place, that ethereal city square, where you and your brothers and sisters and children and mothers and fathers and uncles and aunts are raising your voices in song.
 
 **Listen**. Will you sing a song with me? It's a simple one. It goes:
+
+**1/11/2020**
+
+**Listen**. The sun goes behind the airport to die. The sky is the color of a modern website's, running pastel shades through pink, blues, reds and whites. Easy on the eye.
+
+**Listen**. A road carves its way through the dunes. Their peaks are covered in green shrubbery and now, where the cries of jackals once echoed, feet are dragged.
+
+**Listen**. People duck below the bridge as it dips. The river's water susurrates into the ocean, as maybe it always has. Or maybe it's man-made, a path carved into the ground's history for the water to traverse.
+
+**Listen**. Lights from the neighborhood you always go past are supine against the night. The traffic circle's trees are nodding in agreement with the wind, running their fingers through the hair of their old friend, pale-armed atmosphere.
+
+**Listen**. A vignette is a peek into a memory in molasses. Words swim in it like pieces of a cookie, floating in melted sugar, covering themselves with meaning.
+
+**Listen**. The sun goes behind the airport to die. A bright flame drowns in a cerulean one, the water embracing its celestial lover. People are gathered to dream silent eulogies.
+
+**Listen**. The moon, through a haze, looks on.
