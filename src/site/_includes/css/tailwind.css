@@ -54,7 +54,9 @@ b, strong {
 }
 
 #postContent p {
-  @apply text-left text-paragraph w-4/12 mt-4 mb-4;
+  @apply text-left text-paragraph mt-4 mb-4;
+  width: 45%;
+  font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif;
 }
 
 h2 {
