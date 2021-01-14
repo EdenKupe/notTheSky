@@ -6,7 +6,7 @@ module.exports = {
       },
       colors: {
         transparent: 'transparent',
-        offwhite: '#E8E8E8',
+        offwhite: '#b2b2b2',
         label: '#ff8c8c',
         link: '#3D404A',
         visited: '#98A0B8',
