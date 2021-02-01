@@ -2,7 +2,7 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        paragraph: '1.35rem'
+        paragraph: '1.125rem'
       },
       colors: {
         transparent: 'transparent',
