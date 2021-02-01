@@ -55,7 +55,7 @@ b, strong {
 
 #postContent p {
   @apply text-left text-paragraph mt-4 mb-4;
-  width: 45%;
+  width: 30%;
   font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif;
 }
 
