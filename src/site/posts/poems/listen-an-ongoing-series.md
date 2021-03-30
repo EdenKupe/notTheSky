@@ -146,3 +146,14 @@ But can we love the jackal?
 **Listen**. The sun goes behind the airport to die. A bright flame drowns in a cerulean one, the water embracing its celestial lover. People are gathered to dream silent eulogies.
 
 **Listen**. The moon, through a haze, looks on.
+
+**30.3.2021**
+
+
+**Listen**. Picture the irradiated swamp that now lives where once that copse of tripartite trees now stand. Sure, there is green-yellow bile which washes up on its modest, corrosive shore. But it still rains there, do you see? Even here, even now, even through all of the things that have come to pass, it still rains here. Do the animals that still call this place home take comfort in that? That is a lie you tell yourself, as if these animals concern you; as if there is any way for you to feel kinship with them in some way. If you're being honest, the rain falls then but it's really falling for you, now. It's a construct we have built together (and have continued to build) to take our mind of the swamp even as we help build it.
+
+**Listen**. Now, there are three trees and two women are looking at them. You see their gaze, you see their wonder. You see the pink and white flowers adorning the branches and, suddenly, you feel the full range of human emotions. OK, not the full range but it feels like the full range; the joy within you pings off of their eyes and back on to the tree before it makes its way back to your heart. From whence it takes flight once again, transformed now into hope and happiness, and hums around you like a faint aura only you can see, a sort of self-clarvoyance that you get when you find yourself in these moments. An old poem comes to you: "The sun has burst the sky, because I love you" and you smile. You see the old woman smile and you remember your grandmother(s). You know they smile as well. You remember them smiling. They are not smiling because of a poem but they might as well be. They might as well be.
+
+**Listen**. Yes, when you zoom out from the swamp in your mind (as I am asking/causing you to do now), devestation lies all around. But there's a wind playing in the remenants of the trees. There's a sound that's a composite, that's a lack, that's the background hum of things. There ground does not thrum; the sky does not scream. The smoke rises lazily towards the occluded sky and yes, the sun is not there but you know that it is. Rising now above the clouds, you see the true rain, the true cold, the true hum in the background of things: you see the stars. Often, when you have heard them described, people have said that the stars "burn on" but this is meaningless to you. For your perspective, from our perspective, the stars do not burn. The stars intrude. The stars look on. The stars peek. The stars contextualize. And so they do.
+
+**Listen**. What is left for monsters but to imagine their victims surviving them? In spite of everything, I love you.
