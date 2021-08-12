@@ -1,3 +1,9 @@
+---
+
+title: From Rest
+date: 2021-08-12
+
+---
 
 Sometimes I am tempted
 to fashion of my life something hard. Something precise and perpetually potent. I dream of plunging into a fire of hardship, there to shed my current, softer form
