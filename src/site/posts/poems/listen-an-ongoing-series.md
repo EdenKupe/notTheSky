@@ -197,3 +197,19 @@ I love you.
 **Listen**. Beyond the salt, the cleansing acridity, the aquatic sulfur, the distant sea, beneath the dirt, the storing solidity, the musty petrichor, the distant earth, I know, I can tell, I can feel, I can remember, I can recount, I sense, that you love me.
 
 And I, I love you too.
+
+**23.2.2022**
+
+**Listen**. We twirl and we twirl, a-spin in an orbit, surrounding a planet of deep intent. We rise and fall, come together and apart, we whirl in the concentric rings of life. Possessed, launched, desired, set along, set to sea, towards a ring of fire falling behind the horizon. Towards a twinkle in an eye.
+
+**Listen**. Stars are swept and then scattered again, sowed in a vast field. Through the troughs and canals of dirt we burrow, ringing around the rosie, dancing circles across the tree. The sky ahead rotates, massive constellations of feeling, of emotion, of intentions, entering and leaving galactic houses which dwarf even them.
+
+**Listen**. Everything becomes large and then small again; we draw near and then away. Distance itself collapses and we move terribly slowly at terrible speeds towards a terminus and an egress point. We are at the end of our journey, feeling our feet hum in exercised contentment. We sit by the fire, contemplating tomorrow's journey. We take the first step.
+
+**Listen**. My arms make a doorway and people come in and out of it. Words of farewell and of greeting are whispered constantly, litanies of connections and departures tolling out like silvered bells, like the tongues of fire across a plain, like the hawk's flight above a tundra, like a plateau alight with dew. 
+
+**Listen**. I sing of life, of things well ended and things barely yet begun. I sing of hearts careening at near light-speeds, mournful FTL, and the blood of capillary engines wherein race desire and fear, hope and goodbye, songs and silences. I sing of thinking on those you've lost, but in a good way. I sing of the itinerary of life, the travel plan of sorrow, the trip of joy, the travels of being here, alive, wondering, open, hurt, yearning.
+
+**Listen**. I sing of you.
+
+I love you.
