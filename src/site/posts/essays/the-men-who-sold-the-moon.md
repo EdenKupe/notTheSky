@@ -3,9 +3,9 @@ title: The Men Who Sold The Moon
 subtitle: "radicalism, complacency, and solarpunk"
 date: 2023-06-23
 ---
-### “I suppose, then, that the bottom line of what I've rambled on about here, ties the stories in with what I felt in Rio (and with "waves," of all kinds): the stories that are merely stories—what Vonnegut calls _foma_, harmless untruths—are for entertainment. The others are to tell you that as night approaches we are all aliens, down here on this alien Earth. To tell you that not Christ nor man nor governments of men will save you. To tell you that writers about tomorrow must stop living in yesterday and work from their hearts and their guts and their courage to tell us about tomorrow, before all the tomorrows are stolen away from us[...]”
+“I suppose, then, that the bottom line of what I've rambled on about here, ties the stories in with what I felt in Rio (and with "waves," of all kinds): the stories that are merely stories—what Vonnegut calls _foma_, harmless untruths—are for entertainment. The others are to tell you that as night approaches we are all aliens, down here on this alien Earth. To tell you that not Christ nor man nor governments of men will save you. To tell you that writers about tomorrow must stop living in yesterday and work from their hearts and their guts and their courage to tell us about tomorrow, before all the tomorrows are stolen away from us[...]”
 
-* Harlan Ellison, _The Waves in Rio_, introduction to_ The Beast That Shouted Love at the Heart of the World_
+* Harlan Ellison, _The Waves in Rio_, introduction to _The Beast That Shouted Love at the Heart of the World_
 
 ### The Cold War for Our Hot Future
 
