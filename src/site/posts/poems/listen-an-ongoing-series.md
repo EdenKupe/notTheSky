@@ -274,6 +274,6 @@ I love you.
 
 **Listen**. Even though I leave, I love them all and I love you all. The parents, the family, the friends, the bartenders, the objects of unrequited passion, the street corners, the avenues, the ficuses, the heat, the humidity, the sea, the sea, the sea, the decrepit corners where individuals can bloom, the winding paths, the petering out cliffs, the needless traffic, the even more needless sprinklers, the darkened corners that hid me when I was drunk, the glaring light of day that showed me for what I am for so long. The jackals. Oh god, the jackals.
 
-**Listen**. I love you. I'm going forward. There is no coming back. Listen is over but I am always listening and I hope that you are listening to, listening to me saying how much I love you. Because I do. And not Listen or Tel Aviv or flight or distance or tears or words or anything else in the world will ever come even slightly close to how much I love you and how important that is.
+**Listen**. I love you. I'm going forward. There is no coming back. Listen is over but I am always listening and I hope that you are listening too, listening to me saying how much I love you. Because I do. And not Listen or Tel Aviv or flight or distance or tears or words or anything else in the world will ever come even slightly close to how much I love you and how important that is.
 
 **Listen**, for the last time: I love you.
