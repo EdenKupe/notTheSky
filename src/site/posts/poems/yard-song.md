@@ -8,7 +8,7 @@ slicing through the night
 It's not a bad sound but it's a big sound
 Filling up his dreams with distance
 
-Down the street
+Down the street<br>
 The Junk King quilts together dormant sheets of metal into purpose
 Her sweat drips, earthy and marble-rich,
 To be swallowed up by retreating rust
