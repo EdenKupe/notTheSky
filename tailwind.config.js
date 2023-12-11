@@ -15,7 +15,7 @@ module.exports = {
           link: '#3D404A',
         },
         blue: {
-          base: '#133C55',
+          base: '#12181F',
         }
     },
   },
