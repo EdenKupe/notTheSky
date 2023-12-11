@@ -3,12 +3,6 @@ title: The Demented World
 layout: layouts/demented.njk
 ---
 
-<ul id="collectionList" class="">
-{%- for post in collections.demented -%}
-  <li class=""><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-{%- endfor -%}
-</ul>
-
 <h4>An Introduction</h4>
 
 I'm writing this forward before the piece is even done. This should speak volumes about how intimate this experience has been to me and will forever be. Sure, some word plays and structures in what you're about to read (why by the way?) were intentional. I gave them thought and directed them with my conscious skill. Most of it however was born burning, searing my insides. A lot of the process that went into this was vomiting. I found the words pouring from my fingertips, taking their own shape unto the electronic page. And this foreword as well. I simply woke up with the need to write it, regardless of the fact that the piece is not done. However, if there is anything that I have learned from this torturous journey, it is not to build dams or keys for these emotions.
@@ -39,3 +33,9 @@ Shall lure it back to cancel half a Line,
 Nor all thy Tears wash out a Word of it."
 
 -Rubáiyát of Omar Khayyám
+
+<ul id="collectionList" class="">
+{%- for post in collections.demented -%}
+  <li class=""><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+{%- endfor -%}
+</ul>
