@@ -26,7 +26,7 @@ b, strong {
 }
 
 #collectionList li {
-  margin-top: 40px;
+  display: inline;
 }
 
 #postWrapper {
