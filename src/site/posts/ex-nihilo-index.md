@@ -3,12 +3,6 @@ title: Ex Nihilo
 layout: layouts/nihilo.njk
 ---
 
-<ul id="collectionList" class="">
-{%- for post in collections.nihilo -%}
-  <li><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-{%- endfor -%}
-</ul>
-
 <h4>Out of nothing</h4>
 
 **Ex Nihilo** is a science fiction, short story suite. What does that mean? It means that it’s made up of a series of short stories, some of them short enough to be considered “flash” literature, some of them not so much, who all share one universe. In this universe, a galactic empire called the Heart controls the galaxy, through culture, language and knowledge. In **Ex Nihilo**, I pay homage to many of my favorite science fiction tropes and genres. However, most of the reasoning behind writing this was just to get it out there; it was bothering me too much inside my brain. Select parts of this story suite have also been translated into music.
@@ -23,3 +17,9 @@ Sell your cleverness and buy bewilderment.
 Cleverness is mere opinion, bewilderment intuition.”
 
 –Jalāl ad-Dīn Muhammad Rūmī
+
+<ul id="collectionList" class="">
+{%- for post in collections.nihilo -%}
+  <li><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+{%- endfor -%}
+</ul>

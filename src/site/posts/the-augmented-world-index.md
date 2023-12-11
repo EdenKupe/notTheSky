@@ -3,12 +3,6 @@ title: The Augmented World
 layout: layouts/augmented.njk
 ---
 
-<ul id="collectionList" class="">
-{%- for post in collections.augmented -%}
-  <li><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
-{%- endfor -%}
-</ul>
-
 <h4>An augmented introduction</h4>
 
 In 2014, when my whole life was breaking apart, I wrote a piece of prose/flash fiction called [The Demented World](/posts/the-demented-world-index/). It was a really dark time in my life. It involved a relationship of many years ending, a relationship around which I had built my inner world. **The Demented World** is me burning that world to the ground, basically a tantrum, metaphorical furniture being thrown as my rage, betrayal, and self doubt were given flight. I didn’t sleep, I cried all day, and I wrote. Sometimes I really didn’t want to write but I couldn’t stop; some of the stuff in there is written from anguish.
@@ -17,4 +11,10 @@ But then, in 2017, I started **The Augmented World**. I didn’t intend it as a 
 
 Thus, **The Augmented World** is my attempt to imagine a more beautiful world, made beautiful because it has ugliness within it. It’s an attempt to reconnect with a naive, hopeful, gleeful side of myself. It’s also what I mentioned above; an homage to the greats of the genre and a place for me to let my flights of fancy take shape.
 
-Above, you'll find all the pieces of it. It's a work in progress. Enjoy.
+Below, you'll find all the pieces of it. It's a work in progress. Enjoy.
+
+<ul id="collectionList" class="">
+{%- for post in collections.augmented -%}
+  <li><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+{%- endfor -%}
+</ul>
