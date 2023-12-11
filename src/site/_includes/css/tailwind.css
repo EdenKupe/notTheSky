@@ -4,12 +4,36 @@
 
 /* purgecss start ignore */
 html {
-  font-family: "Montserrat", "Open Sans", Arial, Helvetica, sans-serif;
+  font-family: "Roboto Mono", "Open Sans", Arial, Helvetica, sans-serif;
   @apply h-auto;
 }
 
 body {
   @apply flex flex-col text-offwhite bg-blue-base h-auto;
+}
+
+@font-face {
+  font-family: 'Wotfard';
+  src: url('/fonts/wotfard/wotfard-semibold-webfont.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Wotfard';
+  src: url('/fonts/wotfard/wotfard-medium-webfont.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: fallback;
+}
+
+@font-face {
+  font-family: 'Wotfard';
+  src: url('/fonts/wotfard/wotfard-regular-webfont.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: fallback;
 }
 
 a {
@@ -57,7 +81,7 @@ b, strong {
   @apply text-left text-paragraph mt-4 mb-4 text-white;
   line-height: 2;
   width: 45%;
-  font-family: 'Roboto Mono', 'Courier', 'Helvetica', sans-serif;
+  font-family: 'Wotfard', 'Courier', 'Helvetica', sans-serif;
 }
 
 h2 {
