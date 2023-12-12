@@ -10,8 +10,12 @@ module.exports = {
         label: '#ff8c8c',
         link: '#3D404A',
         visited: '#98A0B8',
+        light: {
+          default: '#fff',
+          label:"#df0707",
+        },
         black: {
-          default: '#11101e',
+          default: '#0A0C10',
           link: '#3D404A',
         },
         blue: {

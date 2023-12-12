@@ -38,5 +38,20 @@
 
 </script>
 <script defer src="https://kit.fontawesome.com/95df9abb02.js"></script>
+<script>
+  document.addEventListener('click', function (event) {
+
+	// If the clicked element doesn't have the right selector, bail
+  if (!event.target.matches('#modeToggleLink')) return;
+
+	// Don't follow the link
+	event.preventDefault();
+
+	// Log the clicked element in the console
+	let html = document.getElementsByTagName("html")[0];
+  html.classList.toggle("light");
+
+}, false);
+</script>
 </body>
 </html>
