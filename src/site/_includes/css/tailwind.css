@@ -51,7 +51,8 @@ b, strong {
 }
 
 #collectionList li {
-  display: inline;
+  display: inline-flex;
+  align-items: center;
 }
 
 #postWrapper {
