@@ -5,15 +5,15 @@
 </div>
 <script>
     window.addEventListener("load", (event) => {
-        const subtitles = document.getElementsByTagName("h3");
+        let subtitles = document.getElementsByTagName("h3");
         let ul = document.getElementById("internalList");
         let backToTop = document.createElement("li");
-        backToTop.classList.add("internalItem");
         let backToTopLink = document.createElement("a");
+        let icon = document.createElement("i");
+        backToTop.classList.add("internalItem");
         backToTopLink.href = "#";
         backToTopLink.classList.add("internalLink");
         backToTopLink.innerText = "back to top ↑↑↑";
-        let icon = document.createElement("i");
         icon.style = "margin-right:1rem;margin-left:1rem;color:#ff8c8c";
         icon.classList.add("fas");
         icon.classList.add("fa-moon"); 
@@ -22,14 +22,14 @@
         ul.appendChild(backToTop);
         console.log(subtitles);
         for (let i = 0; i < subtitles.length; i++) {
-            const currentTitle = subtitles.item(i);
+            let currentTitle = subtitles.item(i);
             let li = document.createElement("li");
-            li.classList.add("internalItem");
             let link = document.createElement('a');
+            let icon = document.createElement("i");
+            li.classList.add("internalItem");
             link.innerText = currentTitle.innerText;
             link.href = "#" + currentTitle.id;
             link.classList.add("internalLink")
-            let icon = document.createElement("i");
             icon.style = "margin-right:1rem;margin-left:1rem;color:#ff8c8c";
             icon.classList.add("fas");
             icon.classList.add("fa-moon"); 
