@@ -50,8 +50,22 @@
 	// Log the clicked element in the console
 	let html = document.getElementsByTagName("html")[0];
   html.classList.toggle("light");
+  let currentMode = localStorage.getItem("readingMode");
+  if (currentMode != "light") {
+    localStorage.setItem("readingMode", "light");
+  }
+
 
 }, false);
+</script>
+<script>
+  window.addEventListener("load", (event) => {
+    let currentMode = localStorage.getItem("readingMode");
+      if (currentMode = "light") {
+    let html = document.getElementsByTagName("html")[0];
+  html.classList.add("light");
+  }
+  });
 </script>
 </body>
 </html>

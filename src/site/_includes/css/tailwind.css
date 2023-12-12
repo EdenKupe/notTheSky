@@ -64,6 +64,9 @@ a {
   @apply text-light-label;
 }
 
+.light #postContent ul a {
+  @apply text-light-label;
+}
 
 b, strong {
   @apply text-label;
@@ -71,6 +74,10 @@ b, strong {
 
 .light b {
   @apply text-light-label;
+}
+
+.light .homeLink b {
+  @apply text-white;
 }
 
 .light strong {
