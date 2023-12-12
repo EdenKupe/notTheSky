@@ -66,6 +66,20 @@ b, strong {
   width: 65px;
 }
 
+#internalSidebar {
+  position: fixed;
+  top: 220px;
+  right: 100px;
+  width: 250px;
+}
+
+.internalItem {
+  display: flex;
+  align-items: baseline;
+  height: auto;
+  margin-top: 20px;
+}
+
 #postContent {
   @apply text-center pt-4 flex flex-col items-center mt-4;
 }
@@ -87,6 +101,10 @@ b, strong {
 
 h2 {
   @apply text-offwhite text-6xl uppercase font-medium w-2/3;
+}
+
+h2.subtitle {
+  @apply mt-4 text-label text-2xl font-light w-1/2;
 }
 
 h3 {
@@ -158,12 +176,17 @@ hr {
   #postContent p {
     font-size: 1.2rem;
   }
+  
+  #internalList {
+    display: none;
+  }
 }
 
 @media only screen and (max-width:1000px) {
   #postContent p {
     font-size: 1.2rem;
   }
+
 }
 
 @media only screen and (max-width:900px) {
