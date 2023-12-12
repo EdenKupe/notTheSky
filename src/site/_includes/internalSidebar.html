@@ -1,0 +1,24 @@
+<div id="internalSidebar">
+    <ul id="internalList">
+
+    </ul>
+</div>
+<script>
+    window.addEventListener("load", (event) => {
+        const subtitles = document.getElementsByTagName("h3");
+        let ul = document.getElementById("internalList");
+        console.log(subtitles);
+        for (let i = 0; i < subtitles.length; i++) {
+            const currentTitle = subtitles.item(i);
+            let li = document.createElement("li");
+            li.classList.add("internalLink");
+            li.id = currentTitle.id;
+            let link = document.createElement('a');
+            link.innerText = currentTitle.innerText;
+            link.href = "#" + currentTitle.id;
+            li.appendChild(link);
+            ul.appendChild(li);
+    }
+});
+    
+</script>

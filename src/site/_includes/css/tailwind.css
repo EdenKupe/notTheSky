@@ -5,6 +5,7 @@
 /* purgecss start ignore */
 html {
   font-family: "Roboto Mono", "Open Sans", Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth;
   @apply h-auto;
 }
 
