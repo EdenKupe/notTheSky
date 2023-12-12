@@ -47,23 +47,25 @@
 	// Don't follow the link
 	event.preventDefault();
 
-	// Log the clicked element in the console
 	let html = document.getElementsByTagName("html")[0];
-  html.classList.toggle("light");
   let currentMode = localStorage.getItem("readingMode");
   if (currentMode != "light") {
     localStorage.setItem("readingMode", "light");
+    html.classList.add("light");
+  } else {
+    localStorage.setItem("readingMode", "dark");
+    html.classList.remove("light");
   }
-
-
 }, false);
 </script>
 <script>
   window.addEventListener("load", (event) => {
     let currentMode = localStorage.getItem("readingMode");
-      if (currentMode = "light") {
     let html = document.getElementsByTagName("html")[0];
-  html.classList.add("light");
+      if (currentMode == "light") {
+        html.classList.add("light");
+  } else {
+        html.classList.remove("light");
   }
   });
 </script>
