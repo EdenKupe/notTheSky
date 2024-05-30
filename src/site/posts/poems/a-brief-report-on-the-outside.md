@@ -5,37 +5,37 @@ date: 2024-01-19
 
 ---
 
-Well, first, it's cold.
-The kind of bitter cold that
-puts the faux-marmoreal precision
-of Celsius and Fahrenheit to shame,
-making them look like two well intentioned fools
-trying to dissect the cold as it slices through
-your skin.
+Well, first, it's cold.</br>
+The kind of bitter cold that</br>
+puts the faux-marmoreal precision</br>
+of Celsius and Fahrenheit to shame,</br>
+making them look like two well intentioned fools</br>
+trying to dissect the cold as it slices through</br>
+your skin.</br>
 
-Then, secondly, the black ice is gone,
-thank God, taken away by the flurry that
-refreshed the snow. The dog glides over it
-so that, almost, for a second,
-I can forget that time passes.
+Then, secondly, the black ice is gone,</br>
+thank God, taken away by the flurry that</br>
+refreshed the snow. The dog glides over it</br>
+so that, almost, for a second,</br>
+I can forget that time passes.</br>
 
-Lastly, space is still an inadequate category
-to describe how it feels to be situated
-in relation to so many things and places
-throughout this life.
-Walking streets is still mainly an exercise in memory
-more than it is any physical thing.
+Lastly, space is still an inadequate category</br>
+to describe how it feels to be situated</br>
+in relation to so many things and places</br>
+throughout this life.</br>
+Walking streets is still mainly an exercise in memory</br>
+more than it is any physical thing.</br>
 
-That's my brief report which I wrote
-in my head while still learning how to be here.
-The dull ache shifts and turns inside of me and
-is unborn with each passing day.
-Perhaps eventually it will complete its untransformation,
-from an active, crying thing, back into a zygote.
-I hope you are well and that your day was good,
-apologies that the report is so brief.
-I would write more but it's too cold
-and I'm worried about the dull baby
-waking into grief.
+That's my brief report which I wrote</br>
+in my head while still learning how to be here.</br>
+The dull ache shifts and turns inside of me and</br>
+is unborn with each passing day.</br>
+Perhaps eventually it will complete its untransformation,</br>
+from an active, crying thing, back into a zygote.</br>
+I hope you are well and that your day was good,</br>
+apologies that the report is so brief.</br>
+I would write more but it's too cold</br>
+and I'm worried about the dull baby</br>
+waking into grief.</br>
 
-P.S I love you and miss you.
+P.S I love you and miss you.</br>
