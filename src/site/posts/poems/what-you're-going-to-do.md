@@ -39,7 +39,7 @@ you're going to cry.</br>
 you're going to cry a not-so-sad cry</br>
 tears for streets you'll never walk down again</br>
 and things you won't be able to tell your grandmother</br>
-like "i know it's not your fault" and "thank you for everything"</br>
+like "i know it's not your fault" and "thank you for everything".</br>
 and before the tears dry</br>
 you'll be home and</br>
 here's what you're going to do:</br>
