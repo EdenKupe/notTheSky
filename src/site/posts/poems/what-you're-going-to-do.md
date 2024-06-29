@@ -1,7 +1,7 @@
 ---
 
 title: What You're Going To Do
-date: 2024-06-12<
+date: 2024-06-12
 
 ---
 
