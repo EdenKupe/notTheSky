@@ -15,9 +15,9 @@ audio-visual display that it conjures at will.</br>
 
 I'm also sorry that it's true that,</br>
 one day, your dog will start taking slower and slower walks</br>
-until, in a white-washed room awash in flourescent light,</br>
+until, in a white-washed room awash in fluorescent light,</br>
 they lie down for one last good nap.</br>
-And also, the racooon you once saw is probably also dead and,</br>
+And also, the racoon you once saw is probably also dead and,</br>
 in general, the entire biomass that is the track record of your existence</br>
 your traipse through this world, is more already-dead than not.</br>
 
