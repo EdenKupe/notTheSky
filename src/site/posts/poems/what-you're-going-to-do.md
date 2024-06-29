@@ -22,7 +22,7 @@ to a northern town?</br>
 not too north but still</br>
 much norther than you've lived at before</br>
 except those two years, twenty five years ago,</br>
-just a bit to the south of that</br></br>
+just a bit to the south of that</br>
 where the June light goes all the way to nine</br>
 but not quite to midnight</br>
 and in that light you're going to walk home</br>
@@ -36,6 +36,7 @@ you're going to play a song</br>
 any song that brings you to tears and,</br>
 in the quickening breeze of a June evening,</br>
 you're going to cry.</br>
+</br>
 you're going to cry a not-so-sad cry</br>
 tears for streets you'll never walk down again</br>
 and things you won't be able to tell your grandmother</br>
@@ -54,7 +55,7 @@ telling them that they're very smart</br>
 without a shard of pretense</br>
 like the others had</br>
 and you're going to love her</br>
-and regret a lot.</br>
+and regret a lot.</br></br>
 and then here's what you're going to do:</br>
 you're going to finish this poem</br>
 and eat something</br>
