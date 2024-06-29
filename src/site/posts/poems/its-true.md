@@ -29,7 +29,7 @@ and winds will blow down that street you know</br>
 populated as it might be by people or by fierce, unstoppable vines.</br>
 And also,</br>
 even when the sun's nuclear engine stills and</br>
-comets are all that plays in her steady, mathematical assured orbits,</br>
+comets are all that plays in her steady, mathematical, assured orbits,</br>
 you will have existed</br>
 and ceased</br>
 and that's something beautiful</br>
