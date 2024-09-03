@@ -4,6 +4,8 @@ subtitle: "value systems, axes, and the burden of rule"
 date: 2023-11-28
 ---
 
+*This article was first published in the excellent [Hwaet magazine](hwaetzine.co.uk/product/issue-2)*
+
 ### Modern Knights
 
 Reading about The Green Knight online can be quite frustrating. Most outlets seem to understand the importance of the movie as a retelling of a classic text (perhaps one of the top three most important texts of the English language, alongside The Canterbury Tales and whichever Shakespeare one deems the most influential), Sir Gawain and The Green Knight. However, the point of said text seems to elude them, with their focus lying on the obvious elements of the story: magic, honour, and bravery. Articles across the web say strange things like heralding the ending of the poem as an “unambiguously happy ending” or claiming that the point of the poem is about Gawain’s cowardice or lack thereof. Interestingly enough, many of these articles also seem to miss out on the subtleties of The Green Knight movie adaptation, preferring to focus on its psychedelic aesthetic or on the twists and turns of its ending. 
