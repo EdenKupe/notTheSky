@@ -4,7 +4,7 @@ subtitle: "value systems, axes, and the burden of rule"
 date: 2023-11-28
 ---
 
-*This article was first published in the excellent [Hwaet magazine](hwaetzine.co.uk/product/issue-2)*
+*This article was first published in the excellent [Hwaet magazine](hwaetzine.co.uk/product/issue-2).*
 
 ### Modern Knights
 
