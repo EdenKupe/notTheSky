@@ -20,6 +20,7 @@ Each day that we stay here<br>
 the past seems less clear to me<br>
 like a sudsy island floating away<br>
 on a river.<br>
+
 Maybe I don't have to make sense of it<br>
 to pull back together the sequences of its birth<br>
 the swirl, the churn, the bubbling up of it all,<br>
