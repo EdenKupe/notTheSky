@@ -11,7 +11,7 @@ module.exports = {
         link: '#3D404A',
         visited: '#98A0B8',
         light: {
-          default: '#fff',
+          default: '#d7d7d7',
           label:"#df0707",
         },
         black: {
