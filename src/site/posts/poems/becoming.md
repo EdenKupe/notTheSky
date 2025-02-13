@@ -26,7 +26,7 @@ Meanwhile, there's the weirdly lit color of the sky,</br>
 as if the sun were escaping the day's snowfall</br>
 at something less than its infamously fixed speed.</br>
 Meanwhile there is the memory of whatever it was I saw in the clouds</br>
-the day I landed here.</br> Meanwhile there is the memory
+the day I landed here.</br> Meanwhile there is the memory</br>
 of laughter on a bench, probably uprooted by now.</br>
 
 The bench, not the laughter, of course as</br>
