@@ -18,8 +18,8 @@ but when you focus on one of them,</br>
 one seemingly lazy dancer in the whole,</br>
 it suddenly seems to zoom so fast</br>
 catching the light of the street lamp and</br>
-turning into a comet,</br>
-some sort of beginning of an understanding</br>
+turning into a comet.</br>
+Some sort of beginning of an understanding here</br>
 might be reached before you die.</br>
 
 Meanwhile, there's the weirdly lit color of the sky,</br>
