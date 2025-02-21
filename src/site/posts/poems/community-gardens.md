@@ -34,7 +34,7 @@ In the great library,</br>
 which burned yesterday and thousands of years ago,</br>
 there was also a dusty, small tome,</br>
 containing a guide for traversing these green tunnels.</br>
-Luckily, it is easy to recover its contents, and I have,</br>
-they contained a single word,</br>
+Luckily, it is easy to recover its contents, and I have.</br>
+They contained a single word,</br>
 imprinted on each of its three hundred and sixty seven pages,</br>
 "memory".</br>
