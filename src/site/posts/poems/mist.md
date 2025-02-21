@@ -17,7 +17,7 @@ From its flanks, flashing white in the iced over snow</br>
 rise the mists from which you grow.</br>
 
 The past unfurls like a dawn and,</br>
-listen, I am sorry so say that</br>
+listen, I am sorry to say that</br>
 you will grow distant from most of this. The snaking arms</br>
 of light perforating the clouds continue to ascend</br>
 and who you were soars above your gaze.</br>
@@ -30,7 +30,7 @@ rise the mists which set you free.</br>
 Alas, the past coalesces like a face and,</br>
 listen, I am sorry to say that</br>
 you will not recognize it. The snaking arms</br>
-of decisions writ upon the skin continue to meander</br>
+of decisions writ upon the skin continue to twist</br>
 and who you were collapses before your gaze.</br>
 
 Like a memory, it stutters here and there</br>
