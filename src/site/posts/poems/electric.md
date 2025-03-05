@@ -9,7 +9,7 @@ What did he mean, "the body electric",</br>
 that old poet, as if canals</br>
 of blood and plasm</br>
 suddenly carried lightning?</br>
-As if, dragged, embedded, dredged</br>,
+As if, dragged, embedded, dredged,</br>
 bodily parts somehow flittered,</br>
 aloof,</br>
 disconnected,</br>
