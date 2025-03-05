@@ -25,6 +25,6 @@ I sing the body dying, and decaying,</br>
 and real, and mottled,</br>
 and patched, and dusted,</br>
 with the mud of living, the refuge of time,</br>
-the roots of existing, the muck of love,</br>
+the roots of kissing, the muck of love,</br>
 the bruises of reciprocity, the hickeys of god,</br>
 the blood of ages, the regolith of life.</br>
