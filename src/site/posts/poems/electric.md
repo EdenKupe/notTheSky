@@ -1,7 +1,7 @@
 ---
 
 title: Electric
-date: 2025-3-05
+date: 2025-03-05
 
 ---
 
