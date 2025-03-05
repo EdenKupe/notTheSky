@@ -6,8 +6,7 @@ date: 2025-03-05
 ---
 
 What did he mean, "the body electric",</br>
-that old poet, as if canals</br>
-of blood and plasm</br>
+that old poet, as if canals of blood and plasm</br>
 suddenly carried lightning?</br>
 As if, dragged, embedded, dredged,</br>
 bodily parts somehow flittered,</br>
