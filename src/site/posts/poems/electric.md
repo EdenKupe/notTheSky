@@ -13,7 +13,7 @@ bodily parts somehow flittered,</br>
 aloof,</br>
 disconnected,</br>
 trailing up above the world,</br>
-like so many trails of smoke,</br>
+like so many whisps of smoke,</br>
 and not as they are, grounded, foundational,</br>
 dirt-bound.</br>
 
