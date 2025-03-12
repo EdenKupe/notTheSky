@@ -28,6 +28,6 @@ blending on the ground, an alkaline potion.</br>
 
 If you haven't, watered and lost and dripped I mean,</br>
 then don't talk to me of ownership,</br>
-of justice metted out or withdrawn or broken,</br>
+of justice meted out or withdrawn or broken,</br>
 debts owed or treasures gained,</br>
-memories forgotten.</br>
+memories forgotten.
