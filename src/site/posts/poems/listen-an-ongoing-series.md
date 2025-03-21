@@ -5,7 +5,9 @@ date: 2018-07-07
 
 ---
 
-**4.27.2018**
+"Listen," is long. <a onclick="randomLink(event)" href="#">Click here</a> for a random entry.
+
+<h3>4.27.2018</h3>
 
 **Listen.** A few weeks ago, it was the anniversary of me changing my career path. A year since I started learning a whole new trade and to dabble in several others. I've learnt a lot of stuff but perhaps the most important thing was not a new revelation but rather an affirmation of something I had felt for a long time: knowledge, like many things in nature, is as poisonous as it is healthy. Think of silver or garlic or certain chemicals; the touch of Eir is within these things but too much of them can overload you and reverse the scales. In the case of knowledge, it's more of a case of Paean than Eir. Knowledge heals the other faculties, just like Paean heals the other gods. It fortifies your resolve, your courage, your intellect, your self-assurance. Too much of it does not reverse the scales but it does become poisonous, supercharging those traits. In short, knowledge easily makes you too much to handle, both in an inwards sense and to your surroundings.
 
@@ -17,7 +19,7 @@ I don't know what to do with any of this but I know that coming to terms with th
 
 I hope you're doing OK. I love you.
 
-**4.28.2018**
+**<h3>4.28.2018</h3>**
 
 **Listen.** You ain't never going back, OK? The bus that is you only unravels the weave in one direction and there is no knot quite the same. So you ain't going back; that moment you cherish? It's gone. With it is home gone, the mischievous wind on your cheek, the anger, the feeling of steel on rusted steel, a slight hint of laughter, it's gone. The only pain in this world is the pain of wanting to go back, of your mind insisting on a U turn when the road is unmarked, falling apart, scrubbed away. This is where religion comes from and literature and music and all else. So, we won't chuck away that pain, even if we could. Which we can't. But we wouldn't anyway because there's just too much baby in them waters and you know how the saying goes.
 
@@ -29,7 +31,7 @@ Thus, we converse on this, our road, you and I. Friends by virtue of the bus, of
 
 We're going home baby. It's going to be OK. I love you.
 
-**7.7.2018**
+**<h3>7.7.2018</h3>**
 
 **Listen.** There was a time when you didn't know how to tie your shoes. These days, I do it without even thinking about it, just pausing my daily routine and performing a dexterous task I once didn't know how to accomplish. Someone taught you how to do that, even though there were no books. They taught you through their skill and their attention. They spent their time on me, leaning in from above (I assume, I don't remember. My mind isn't good at remembering times when I was shorter than people) and showing you something that they took for granted. Do you understand how hard that is? If you don't, try teaching a kid how to tie their shoes. Try to break down a task which you never think about while performing into its disparate elements. Try taking those elements and putting them together in a way that another person will understand. Then you will realize how much people that love you, love you.
 
@@ -41,7 +43,7 @@ We're going home baby. It's going to be OK. I love you.
 
 And we'll go back home. Don't forget to tie your shoes. I'll do my own.
 
-**7.15.2018**
+**<h3>7.15.2018</h3>**
 
 **Listen**. There's a shall casing around our senses. Like all good armor, it imprisons us and protects both; in fact, serving that dualism is its inherent function. I walk around the world, like a bullet looking for a target, and my shell casing hugs me. There are motives and thoughts behind those voices which seep through the alloy of my casing but it robs them of momentum. Think about armor; what does armor do? How does it protect? It, first and foremost, absorbs momentum; it turns that which is volatile into that which is inert. There are as many types of armor as there are things sleeping in the world which is to say, there are infinite types of armor out there. But ours, mine, is of an especially subtle type. You can't see it, it's all powerful and I don't even notice that I'm wearing it. But nevertheless, its effects, once it meets something volatile, are instantaneous; all it needs is the touch of a voice, a hint of emotion, a smattering of volition and in an instant it springs into action and smothers that trajectory with stereotypes and presuppositions and established fact and entire narratives we've built for ourselves and about ourselves and, most importantly, about the constantly exploding ordinance that's traversing the world out there called other people.
 
@@ -53,7 +55,7 @@ Friend, have you ever felt the flame that is recognizing an other? Have you ever
 
 And for that, I will always love you.
 
-**12.7.2018**
+**<h3>12.7.2018</h3>**
 
 **Listen**. The wind weighs heavily on my mind. It's as if a new message has been encoded on it. Once, it only spoke of places far away, to me at least, of places that perhaps never existed or never will. Now, it's as if it tells me that this place, by which it means the entire world and my bodily existence, once existed but now has ceased to do so. It whispers to me, carrying on its breath adverbs, adjectives, and advances, of how fast the yet-to-be is coming, of how quickly the past sloughs away from the bones of the earth, of how lightly a city filled with lights now hovers on the horizon, teetering over an edge so large, so encompassing, that the city can't yet perceive it. It dances as it does so, the wind. It bounces between trees, spinning in their midst, running its hands through the leaves, all the while babbling ceaselessly about diminishing returns, plummeting prospects, bottomless wells, and a path which leads to them.
 
@@ -63,7 +65,7 @@ And for that, I will always love you.
 
 Hey. I love you. We're all going to die. It's going to be alright.
 
-**12.20.2018**
+**<h3>12.20.2018</h3>**
 
 **Listen**. Mythology is what comes out when you're searching for the words but end up giving up, the meaning you were looking for stuck somewhere in cerebral channels. Instead of the straight paths you unconsciously imagined, flowing from signifier to signified, by way of your ancestry and the impossible weight of language, you end up with a stunted, laborious and, ultimately, futile passage. You'll be trying to say "love" or "future" or "help me" and instead there will be a few hands waved in the air, an "um" and an "uh" and the words will escape you, quite literally, flying off to wherever it is that words fly off to. Your compatriot, your champion in conversation, the scope and the focus of your words, will be standing there, quite awkwardly, but not saying too much because, at that moment, they decided to exercise love. And you'll be struggling, clutching for those words, clucking as they fly (like chickens can't) far away from the coop of your intent and into the wide fields of nowhere.
 
@@ -75,7 +77,7 @@ Hey. I love you. We're all going to die. It's going to be alright.
 
 **Listen**. I'm listening.
 
-**9.1.2020**
+**<h3>9.1.2020</h3>**
 
 **Listen**. I remember the sky falling apart. I remember a towering room filled with so much emptiness that it nearly became something but just missed it. I remember gestures bubbling into the spaces where things should be, countless people who were all alone swimming in a sea of viscous, bland, ceramic nothing. They were going through the motions. They were swimming in a sea of their own making. They were guzzling down the after-product of a breaking down, they were gyrating in their seats, conducting ancient rituals their parents promised them would give them meaning. They had plastic in their pockets and in their shoes and in their hearts and a chorus of notes sang through that hall of emptiness. It was a cheery tune. It echoed around the fake tree, lazily trying without success to summon nature and history. The tune snaked around the emptiness, hugging the curves of the objects it almost, but not quite created. It snaked around shoulders clad in uniform, faces smiling without emotion, weathered hands reaching out in rote to take mine, to escort me, to usher me.
 
@@ -91,7 +93,7 @@ But most of all, I cried for you, suffering. I cried for you, waiting. I cried f
 
 I love you.
 
-**28.1.2020**
+**<h3>28.1.2020</h3>**
 
 **Listen**. There was a warehouse full of boxes and a courtyard full of soldiers. There was the air of an ending and of freedom and of obstacles. Words were said. Hands were waved. Tasks were given. Inside the warehouse, there was heat but nothing like the heat they would soon feel. There was dust but nothing like the motes they would soon collect. There was the sensation of a coiled animal as their eyes locked briefly, understanding passing in the shooting rays of the outside sun like so many dancing flames across a cathedral hall. A cathedral of production, a church of efficiency. The stars are stigmata. There came an uncoiling, shy at first, hands fumbling around handles, ascertaining corners, figuring out surfaces. Figuring out pitch and vector and friction. Figuring out roughness, hands imagining future callouses, speaking now to biological systems so that they may speak to social systems. We can't do this alone. The uncoiling increased, exponentially feeding off its own burning, ATP madhouses consuming sugars at increasing levels, sending whirling signals to muscles to use use use, use what is being given to you, shoulder the weight, lift the cost, come together, push it out. Uncoil.
 
@@ -105,7 +107,7 @@ I love you.
 
 But can we love the jackal?
 
-**20.6.2020**
+**<h3>20.6.2020</h3>**
 
 **Listen**. Can you hear that pitter-patter at your window? That's the world curdling, that's the night being peeled away. There was a sort of rushing sound last night, as if all the trees on the planet sighed together, finally able to take a break from holding the sky up. But you were asleep, so you probably didn't notice. Didn't pay attention, lost to soothing somnolence, when the stars began to sing, ushering it all in.
 
@@ -119,7 +121,7 @@ But can we love the jackal?
 
 **Listen**. I love you. Happy summer solstice. 
 
-**11.10.2020**
+**<h3>11.10.2020</h3>**
 
 **Listen**. All you need to do to feel it is sing with other people. You'll notice that there's an internal buoyancy to you, a balance that you've been maintaining without noticing. When you sing, especially with others, your ears don't exactly turn off but they go to this place where they're focused on something beyond how you sound, beyond how others are sounding, towards a place where you all sound like something, together. It's almost like floating in water; your body does it as a reflex, assembling the air in ways that fit together, unlocking a multitude of doors that lead to a place called harmony.
 
@@ -131,7 +133,7 @@ But can we love the jackal?
 
 **Listen**. Will you sing a song with me? It's a simple one. It goes:
 
-**1/11/2020**
+**<h3>1.11.2020</h3>**
 
 **Listen**. The sun goes behind the airport to die. The sky is the color of a modern website's, running pastel shades through pink, blues, reds and whites. Easy on the eye.
 
@@ -147,7 +149,7 @@ But can we love the jackal?
 
 **Listen**. The moon, through a haze, looks on.
 
-**30.3.2021**
+**<h3>30.3.2021</h3>**
 
 
 **Listen**. Picture the irradiated swamp that now lives where once that copse of tripartite trees now stand. Sure, there is green-yellow bile which washes up on its modest, corrosive shore. But it still rains there, do you see? Even here, even now, even through all of the things that have come to pass, it still rains here. Do the animals that still call this place home take comfort in that? That is a lie you tell yourself, as if these animals concern you; as if there is any way for you to feel kinship with them in some way. If you're being honest, the rain falls then but it's really falling for you, now. It's a construct we have built together (and have continued to build) to take our mind of the swamp even as we help build it.
@@ -158,7 +160,7 @@ But can we love the jackal?
 
 **Listen**. What is left for monsters but to imagine their victims surviving them? In spite of everything, I love you.
 
-**23.7.2021**
+**<h3>23.7.2021</h3>**
 
 **Listen**. The world doesn't exist. All that exists, for us at least, are the snippets of the lives we see around us. It's like becoming a radar antenna or a satellite dish. You become receptive to the little moments where the skin of the world falls away and you can finally, sweetly, see people's faces. You turn your head over your shoulder and see the man existing the car. Instantly, a phrase or two from a lullaby he sings to his child comes to you; the wind whistles through the trees, singing the same lullaby but backwards. You're having dinner and you look up, your gaze unknowingly piercing into the apartment across from you. You see a few friends having a drink and, suddenly, you can hear the song they're riotously singing; the wind, that trickster messenger, clad in moths, carried on the dandelion parachutes, brings you their voices. You remember singing such songs too.
 
@@ -172,7 +174,7 @@ But can we love the jackal?
 
 I love you.
 
-**19.9.2021**
+**<h3>19.9.2021</h3>**
 
 **Listen**. My car pulls up next to his in a traffic jam. Around us, there's a space, a reprise, between where we sit, baking on the tarmac, and where the skyscrapers begin. There's a bit of air, a bit of blue, a bit of space, but not too much. The windows are rolled up; it's scorching outside. Traffic is jammed to standstill, so I look to my right and then to my left, and that's where I see him. He's sitting in his car and he's looking straight, beyond the cars, beyond the tarmac, beyond the city even. He is looking into the horizon where, in a weird-loop which in certain ways is the only delimitation of the external world, turns back around into himself. He is looking at the back of his eyes, he is looking at the back of his skull. He is looking back in time. And he's crying. As soon a I notice that he's crying, my heart twists in my chest and all the things I wish I could tell him, that it will be OK, that life ends and that there's a freedom in that, come tumbling into my head. My hand, bypassing my so-called rational mind entirely, moves to the hot plastic of the door handle to open it. Of course I don't actually leave the car; the freeway is the domain of cars and the soft flesh of the human will only be tolerated directly on it in an emergency. Is this not an emergency, you might ask. I think so. But the cars don't. The people who planned the road didn't. And, most importantly, the heat and the asphalt and the skyscrapers and yes, ultimately and perhaps most sadly, the sky doesn't either. So I stay in my car and he stays in his and he cries and I can't really do anything about it.
 
@@ -184,7 +186,7 @@ I love you.
 
 **Listen**. Do you see? What matters is not that you're reading this. What matters is that I love you and you, I know, I can tell, I can feel, you love me. What matters is that there's a place beyond the sea. The song of doves surrounds us when we embrace. In your voice I hear their feathers fluttering. In your smile I smell the olive branch. In your eyes I can read the message, the miracle, the song, the prophecy, that the sea is about to end.
 
-**2.1.2022**
+**<h3>2.1.2022</h3>**
 
 **Listen**. I drive over the engorged river and look towards the sun. The water is, ironically, bottle green. It is fat. It is swaddling its way towards the sea, like an elderly merchant of nothing much, his hands still bent in the shape of the wares he used to carry but not only encompassing air. The river encompasses silt. It contains mud. It feels, to me, like it's running through my heart, picking up all the refuse, the discarded flash drives of memory, ejected from their seating to make room for more urgent matters. A river of electronic waste, running straight from my heart and into the salt, into the cleansing acridity, the aquatic sulfur, of a distant sea.
 
@@ -198,7 +200,7 @@ I love you.
 
 And I, I love you too.
 
-**23.2.2022**
+**<h3>23.2.2022</h3>**
 
 **Listen**. We twirl and we twirl, a-spin in an orbit, surrounding a planet of deep intent. We rise and fall, come together and apart, we whirl in the concentric rings of life. Possessed, launched, desired, set along, set to sea, towards a ring of fire falling behind the horizon. Towards a twinkle in an eye.
 
@@ -214,7 +216,7 @@ And I, I love you too.
 
 I love you.
 
-**20.6.2022**
+**<h3>20.6.2022</h3>**
 
 **Listen**. The emotional grenade spins through the air like a sycamore seed. One moment I'll be walking along, wrapped in my routine like in a thick jacket (although it's already quite sweltering) and, suddenly, a sibling searing to the sun's scorch is set ablaze in my heart. My neck, usually a mere scaffold, albeit a critical one, immediately stretches, like an antenna pointing at the world. Signal is received: the smile of a stranger as she laughs at a completely unknowable joke (that is, unknowable to me), a loving caress on a far away cheek, the laughter of a child at play, the bubbling of a water fountain, its soliloquy expounding on the virtues of reflecting the light on the wall behind it. The world comes alive with gesture and I am a captured audience, swaying in tune with the choreography of the material.
 
@@ -228,7 +230,7 @@ I love you.
 
 **Listen**. I am only here to tell you that I love you and to mean it.
 
-**31.7.2022**
+**<h3>31.7.2022</h3>**
 
 **Listen**. Suddenly, you’re highlighted by the sunlight. It has congealed and is now marmoreal, affected by some unknown metamorphosis. It’s like a mold, a cast, a glyph, an empty, bright engraving into which you are poured. You look down and the bird’s feather is outlined in green, a sharp, acerbic border to its otherwise affluent shimmering. You feel your own green outline, right at the edge of your skin, and the sunlight is beating down on it from a sun transformed. Your own, internal plumage, as if calling to the bird that lost the feather, is unfurling inside of you, swaying mightily under the reconfigured light. Like a ship in its birth, you feel the countless photons bombarding your outer shell with hammers of energy, with gavels of conductivity, scaffolding you with umbral constructions, nuclear stevedores, semaphore smiths of sea-worthy flesh.
 
@@ -240,7 +242,7 @@ I love you.
 
 **Listen**. I write “you” and “me” and “us” but I might just as well be writting about “we”.
 
-**30.3.2023**
+**<h3>30.3.2023</h3>**
 
 **Listen**. The moon is the edge of a thumb, the keratin of its ensorcelled silver scimitaring the sky. Around it, the thick capuchin of night whispers softly to me as if our heads were pressed together. Remember when we were children and the spaces between us seemed less important? Remember when the creatine in our muscles pumped, bringing us close together? Remember when scalps were simply a series of meadows, overflowing with hair, so close to each other that sound was conveyed more through the calcium of bone than the molecules of air? That's me and this night, smooched together, pressing up against each other, two friends conspiring into the, well, night, nocturnal plots of shared pleasures, future histories unfolding between us, stories of how we'll be, me changed and the night glacially eternal, when the sun sets on places far away.
 
@@ -252,7 +254,7 @@ I love you.
 
 **Listen**. Of course I continue on. Of course there are more things to do. Of course I love you. But when I stare up at the moon and find it crescented in my direction, I can't help but feel that everything, every single thing, is slipping away from me and there's nothing I can do but try to hold on tighter to the night.
 
-**22.6.2023**
+**<h3>22.6.2023</h3>**
 
 **Listen**. Somewhere in the city, a cat finds a quiet place to lay down for the final time. The leaves of a deep bush and the flickering lights of the TVs spilling out from the windows of the apartment complex semaphore it to sleep. The lights sing and code everything that happened during the cat's life into a homily. Fights for food, hours languishing in the sun, the way the grass waves in the late afternoon breeze, losing their eye, the taste of blessed, old water. All are channeled through the clicking of switches, the hum of refrigerators, the semi-cohesive story of the building that has towered over them for all their lives, like a harsh, loving, distant father.
 
@@ -264,7 +266,7 @@ I love you.
 
 **Listen**. Somewhere in the city, the life of a cat ends. Elsewhere, life continues to whirl in its rags. And through it all, I love you, cat.
 
-**10.8.2023**
+**<h3>10.8.2023</h3>**
 
 **Listen**. All this has been is an attempt to make pave-stones speak. To make the trees share, even briefly, their perspective with me. All I've been trying to do, through glinting ember, beguiling azure, and flashing ivory, is to get this city to talk to me a bit more clearly. When the words came easily, I felt like a great wind was blowing through my window and into my head, the great, onerous, mellifluous voice of the city chant-whispering its dreams into me. When the words flowed meagerly though, it haunted me; I walked through streets sticky with more than just the ever present humidity. It was unclear who was more frustrated, me or the urban nature around me, two poles of the same dialectic, synecdoche and signified mingling in a saucepan of frustrated language. Every stop sign an abortive exclamation, every street-light a hub of confusion.
 
@@ -277,3 +279,22 @@ I love you.
 **Listen**. I love you. I'm going forward. There is no coming back. Listen is over but I am always listening and I hope that you are listening too, listening to me saying how much I love you. Because I do. And not Listen or Tel Aviv or flight or distance or tears or words or anything else in the world will ever come even slightly close to how much I love you and how important that is.
 
 **Listen**, for the last time: I love you.
+
+
+
+<script>
+    function randomLink(event) {
+    event.preventDefault();
+    var pageLinks = document.getElementsByTagName("h3");
+    // get a random number between 0 and the number of links
+    var randIdx = Math.random() * pageLinks.length;
+    // round it, so it can be used as array index
+    randIdx = parseInt(randIdx, 10);
+    //get that object from the array
+    chosenLink = pageLinks[randIdx];
+    if(chosenLink) {
+        var targetLocation = chosenLink.offsetTop;
+        window.scrollTo(0, targetLocation);
+    }
+}
+</script>
