@@ -284,6 +284,7 @@ I love you.
 
 <script>
     function randomLink(event) {
+    // you already know
     event.preventDefault();
     // get all anchor links from the page
     var pageLinks = document.getElementsByTagName("h3");
