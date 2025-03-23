@@ -285,13 +285,15 @@ I love you.
 <script>
     function randomLink(event) {
     event.preventDefault();
+    // get all anchor links from the page
     var pageLinks = document.getElementsByTagName("h3");
     // get a random number between 0 and the number of links
     var randIdx = Math.random() * pageLinks.length;
     // round it, so it can be used as array index
     randIdx = parseInt(randIdx, 10);
-    //get that object from the array
+    // get that object from the array
     chosenLink = pageLinks[randIdx];
+    // got a target? scroll to it
     if(chosenLink) {
         var targetLocation = chosenLink.offsetTop;
         window.scrollTo(0, targetLocation);
