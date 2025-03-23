@@ -7,7 +7,7 @@ date: 2025-03-22
 Spring equinox,</br>
 or near enough as not to matter,</br>
 in the mega-city and all around me</br>
-I can fill the tree-currents of real and abstract power</br>
+I can feel the tree-currents of real and abstract power</br>
 swirl.
 
 I see a kid,</br>
