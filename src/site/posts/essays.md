@@ -7,6 +7,6 @@ I write essays. Most of them are published over at [Heavy Blog is Heavy](www.hea
 
 <ul id="collectionList" class="">
 {%- for post in collections.essays -%}
-  <li><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+  <li><span>//</span><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>

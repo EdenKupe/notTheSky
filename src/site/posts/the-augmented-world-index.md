@@ -15,6 +15,6 @@ Below, you'll find all the pieces of it. It's a work in progress. Enjoy.
 
 <ul id="collectionList" class="">
 {%- for post in collections.augmented -%}
-  <li><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+  <li><span>//</span><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>

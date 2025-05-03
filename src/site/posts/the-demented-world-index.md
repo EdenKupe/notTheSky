@@ -36,6 +36,6 @@ Nor all thy Tears wash out a Word of it."
 
 <ul id="collectionList" class="">
 {%- for post in collections.demented -%}
-  <li class=""><i style="margin-right:1rem;margin-left:1rem;color:#ff8c8c" class="fas fa-moon"></i><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+  <li class=""><span>//</span><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
 {%- endfor -%}
 </ul>

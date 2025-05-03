@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  @apply flex flex-col text-offwhite bg-blue-base h-auto;
+  @apply flex flex-col bg-blue-base h-auto;
   -webkit-transition: background-color 200ms linear;
   -ms-transition: background-color 200ms linear;
   transition: background-color 200ms linear;
@@ -85,12 +85,22 @@ b, strong {
 }
 
 #collectionList {
-  @apply text-center mb-8 text-xl w-7/12;
+  @apply mb-8 text-xl w-7/12;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 #collectionList li {
   display: inline-flex;
   align-items: center;
+  padding: 0 10px 0 20px;
+}
+
+#collectionList li span {
+  color: #df0707;
+  padding: 0 2px 0 10px;
 }
 
 #postWrapper {
@@ -175,7 +185,7 @@ h3 {
 }
 
 a#modeToggleLink {
-  display: flex;
+  display: none;
   align-items: center;
   text-decoration: none;
   margin-left: -22px;
@@ -241,7 +251,7 @@ li:hover .label {
 }
 
 #backIndex {
-  @apply w-1/2 text-label mt-4 self-center;
+  @apply w-1/2 mt-4 self-center;
 }
 
 #postFooter {

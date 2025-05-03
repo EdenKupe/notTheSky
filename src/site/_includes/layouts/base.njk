@@ -1,5 +1,5 @@
   <!doctype html>
-<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<html class="light" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
   <head>
     <meta charset="utf-8">
     <meta name="keywords" content="Eden Kupermintz, blog, science fiction, magic realism, poetry, prose, short stories, the ocean, dreams, space, fantasy, magic, urbanism">
@@ -39,48 +39,48 @@
 </script>
 <script defer src="https://kit.fontawesome.com/95df9abb02.js"></script>
 <script>
-  document.addEventListener('click', function (event) {
+  //document.addEventListener('click', function (event) {
 
 	// If the clicked element doesn't have the right selector, bail
-  if (!event.target.matches('#modeToggleLink')) return;
+  //if (!event.target.matches('#modeToggleLink')) return;
 
 	// Don't follow the link
-	event.preventDefault();
+	//event.preventDefault();
 
-	let html = document.getElementsByTagName("html")[0];
-  let currentMode = localStorage.getItem("readingMode");
-  let sunButton = document.getElementById("sun");
-  let moonButton = document.getElementById("moon");
-  if (currentMode != "light") {
-    localStorage.setItem("readingMode", "light");
-    html.classList.add("light");
-    moonButton.style.textShadow = "0 0 0 #0E141B";
-    sunButton.style.textShadow = "#ffd100 0px 0px 5px";
-  } else {
-    localStorage.setItem("readingMode", "dark");
-    html.classList.remove("light");
-    sunButton.style.textShadow = "0 0 0 #0E141B";
-    moonButton.style.textShadow = "0 0 15px silver";
+	//let html = document.getElementsByTagName("html")[0];
+  //let currentMode = localStorage.getItem("readingMode");
+  //let sunButton = document.getElementById("sun");
+  //let moonButton = document.getElementById("moon");
+  //if (currentMode != "light") {
+    //localStorage.setItem("readingMode", "light");
+    //html.classList.add("light");
+    //moonButton.style.textShadow = "0 0 0 #0E141B";
+    //sunButton.style.textShadow = "#ffd100 0px 0px 5px";
+  //} else {
+    //localStorage.setItem("readingMode", "dark");
+    //html.classList.remove("light");
+    //sunButton.style.textShadow = "0 0 0 #0E141B";
+    //moonButton.style.textShadow = "0 0 15px silver";
     
-  }
-}, false);
+  //}
+//}, false);
 </script>
 <script>
-  window.addEventListener("load", (event) => {
-    let currentMode = localStorage.getItem("readingMode");
-    let sunButton = document.getElementById("sun");
-    let moonButton = document.getElementById("moon");
-    let html = document.getElementsByTagName("html")[0];
-      if (currentMode == "light") {
-        html.classList.add("light");
-        moonButton.style.textShadow = "0 0 0 #0E141B";
-        sunButton.style.textShadow = "#ffd100 0px 0px 5px";
-  } else {
-        html.classList.remove("light");
-        sunButton.style.textShadow = "0 0 0 #0E141B";
-        moonButton.style.textShadow = "0 0 15px silver";
-  }
-  });
+ // window.addEventListener("load", (event) => {
+  //  let currentMode = localStorage.getItem("readingMode");
+   // let sunButton = document.getElementById("sun");
+    //let moonButton = document.getElementById("moon");
+    //let html = document.getElementsByTagName("html")[0];
+     // if (currentMode == "light") {
+     //   html.classList.add("light");
+       // moonButton.style.textShadow = "0 0 0 #0E141B";
+        //sunButton.style.textShadow = "#ffd100 0px 0px 5px";
+  //} else {
+        //html.classList.remove("light");
+      //  sunButton.style.textShadow = "0 0 0 #0E141B";
+       // moonButton.style.textShadow = "0 0 15px silver";
+  //}
+  //});
 </script>
 </body>
 </html>
