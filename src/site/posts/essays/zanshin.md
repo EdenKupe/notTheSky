@@ -95,7 +95,7 @@ I am not preaching hermitude. I go online, I go to bookstores and music shops. I
 
 
 <!-- Footnotes themselves at the bottom. -->
-## Notes
+### Notes
 
 [1]:
      Tokitsu, Kenji (2004). *The Complete Book of Five Rings*.
