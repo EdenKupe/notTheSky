@@ -3,41 +3,41 @@ title: "Here, at the end"
 date: 2025-07-25
 ---
 
-Here, at the end,
-there's a fire that
-sussurates and fizzles
-with oxygen 
-and the smoke rises
-up
-and
-up
-all the way up
-until the very sky
-is smothered.
+Here, at the end,</br>
+there's a fire that</br>
+sussurates and fizzles</br>
+with oxygen</br>
+and the smoke rises</br>
+up</br>
+and</br>
+up</br>
+all the way up</br>
+until the very sky</br>
+is smothered.</br>
 
-Here, at the end,
-corn sweats
-and the air is filled
-with a vegetative heat
-a wondering
-a threatening
-a potential
-an embrace.
+Here, at the end,</br>
+corn sweats</br>
+and the air is filled</br>
+with a vegetative heat</br>
+a wondering</br>
+a threatening</br>
+a potential</br>
+an embrace.</br>
 
-Here, at the end,
-hearts all glow
-arms reach out
-and find purchase
-here, at the end, they
-find home, score target,
-hit jackpot, carve bullseye.
+Here, at the end,</br>
+hearts all glow</br>
+arms reach out</br>
+and find purchase</br>
+here, at the end, they</br>
+find home, score target,</br>
+hit jackpot, carve bullseye.</br>
 
-Here, at the end,
-I miss you
-and the versions of who
-we might have been
-and summer heats
-gone
-and winter chills
-gone
-And spring
+Here, at the end,</br>
+I miss you</br>
+and the versions of who</br>
+we might have been</br>
+and summer heats</br>
+gone</br>
+and winter chills</br>
+gone</br>
+And spring</br>
