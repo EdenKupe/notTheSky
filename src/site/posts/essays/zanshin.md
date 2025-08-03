@@ -48,12 +48,9 @@ The explanation of both this wild success and the usage of the extreme words “
 
 Of course, there is no collecting everything or forgetting nothing. No matter how well you build your little walls of sand, the ocean is going to come rushing in. Even worse, it doesn’t even need to come rushing in; your walls don’t require a tsunami. All that is required is a little rivulet, a small forgetting, a small mistake, and the walls turn to mud and wash away. The more we insist on building perfect walls, the more we invest into making our productivity software perfect, the more we reveal the timeless truth of the Heel of Achilles, the second law of thermodynamics, the awful germ of death in greatest life. The more we push, the more our goal, a perfect shimmering life, recedes into a blank, dull simulacrum of a life, a neat representation which has nothing to do with either the original nor the way we wanted to think about the original. Life lies in the mutability of the world, in the dynamics of presence and absence. To live is to one day to die. In avoiding death, we calcify life. When we try to keep everything and lose nothing, we lose the very basic structure of what it means to live. As Westenberg puts it:
 
-
     PKM systems promise coherence, but they often deliver a kind of abstracted confusion. The more I wrote into my vault, the less I felt. A quote would spark an insight, I’d clip it, tag it, link it - and move on. But the insight was never lived. It was stored. Like food vacuum-sealed and never eaten, while any nutritional value slips away.
 
-
     Worse, the architecture began to shape my attention. I started reading to extract. Listening to summarize. Thinking in formats I could file. Every experience became fodder. I stopped wondering and started processing.
-
 
 ### No Mind
 
