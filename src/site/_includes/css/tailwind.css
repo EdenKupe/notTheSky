@@ -160,6 +160,19 @@ b, strong {
   font-family: 'Wotfard', 'Courier', 'Helvetica', sans-serif;
 }
 
+pre {
+  width: 50%;
+}
+
+code {
+  @apply text-left text-2xl mt-4 mb-4 text-black;
+  line-height: 2;
+  text-wrap-mode: wrap;
+  font-family: 'Wotfard', 'Courier', 'Helvetica', sans-serif;
+  display: block;
+  font-style: italic; 
+}
+
 h2 {
   @apply text-offwhite text-6xl uppercase font-medium w-2/3;
 }
