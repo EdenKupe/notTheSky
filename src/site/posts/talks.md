@@ -7,7 +7,7 @@ Over the years, I have given talks at several events and conferences. Most of th
 
 I thought it would be useful to collect all of these talks, where they were recorded, in one page. Enjoy!
 
-<hr>
+<hr class="iconHR">
 
 ### re:publica 2019 - Heavy Metals: Metal Music's Vision of the Anthropocene
 
@@ -15,7 +15,7 @@ In my most recent talk, I spoke about metal's vision of the future and the destr
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/HS0T-bF1G5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### ISVIS 2019 - You Have the Bridge: Data and the Colonization of Space
 
@@ -23,7 +23,7 @@ In 2019 I was also part of the excellent ISVIS - a conference focused on data vi
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/DXnLPMIRVUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### re:publica 2017 - The Ocean of Dreams
 
@@ -31,7 +31,7 @@ I've given this talk, in multiple versions, several times but this is the only r
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/z_NMxRghh8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### re:publica 2018 - The Solution for Loneliness
 
@@ -39,7 +39,7 @@ My 2018 re:publica talk was all about digital art, memes, loneliness, empathy, a
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/oUExsJ1XavE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### re:publica 2016 - Embassy // Town
 
@@ -47,7 +47,7 @@ My first talk at re:publica was also one of my first talks on a big stage, ever!
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/gt83YF1NQWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### ISVIS 2018 - Timelines and Visual Representation of the Future
 
@@ -55,7 +55,7 @@ My first ISVIS talk was all about the graphic tool of the timeline and the ideas
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/JqtdPSKiYd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### re:publica 2017 - Curating Science Fiction Art
 
@@ -63,7 +63,7 @@ A really cool panel I was on during my second attendance at re:publica. Discussi
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/LIDUr0mWP2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### re:publica 2019 - Designing Tommorows: Science Fiction as a Method
 
@@ -71,7 +71,7 @@ Another amazing panel I was (more briefly, near the end) a part of. Some truly e
 
 <iframe title="Talk stream" width="560" height="315" src="https://www.youtube.com/embed/G3vI9YjVwfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<hr>
+<hr class="iconHR">
 
 ### 2019 - You're No Stranger to Love: Empathy, Seduction, and Relationships in Video Games
 

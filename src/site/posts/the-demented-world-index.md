@@ -13,6 +13,8 @@ So when I wrote the first part of **The Demented World**, 'Books', I was a bit s
 
 This foreword is a contradiction.
 
+<hr class="iconHR">
+
 If there is a single theme that can be said to run through **The Demented World**, it's the basic inability of humans to communicate. More than that, it is the basic fragmentation of the world around us, our basic inability to properly analyze, understand and process our own life. Therefore a foreword, what is essentially an attempt to give context or further shed light on the creation following it, is pointless. And that's why you'll notice I haven't done it so far. I spoke of my own emotions or lessons learned but haven't given you any information on what to expect. But the basic need of writing, the basic art of the writer, is to communicate. This is why I wrote **The Demented World**: I was trying to explain, to tell people how I feel. I found the medium of conversation to be too contained, not primal enough. And so I took to writing which is, in essence, a monologue. And I let most structures go and simply allowed the words to pour onto the page.
 
 So, I do want to explain some things. You won't find a primer to understanding what's to follow. Indeed, I am not sure understanding is the purpose of it, if it even has a purpose. When reading this piece while it was being written, many of my friends asked me "What did you mean here?" or "are you sure that's what you're going for?" And I usually replied with "I have no idea. It is what it is". However, there are three basic ideas that are addressed in **The Demented World**, along with countless minor thoughts, themes and motifs. This is why the piece is divided into three parts. Each one can be broadly (very broadly) described as handling a single idea:
@@ -22,6 +24,8 @@ A) Part Aleph deals mostly with the people and things around me. Surveying the w
 B) Part Berkanan deals with an internal conflict. This conflict flows over to the external world but is essentially motivated by an absence of an internal map with which to understand oneself. This is the most primal and basic emotion I deal with on a day to day basis. My own research into myself, searching for an ordered way to understand myself, has resulted only in chaos and shattering. I do not complain of this state since I believe it is prevalent in all humans, whether acknowledged or not. But, it is still difficult to handle and Part Berkanan speaks a bit about that.  Berkanan is the second letter in the Swedish alphabet.
 
 C) Part Triennial finally turns towards some sort of peace. It ends on an unclear note though, so the exact method of handling the first two parts is unclear. If Part Aleph is my current life and Part Berkanan is my current state of internal affairs, then Part Triennial is the way I deal with them both. It deals with the basic difficulty of creating yourself in the face of all this shattered information and the necessity of internal power and security.
+
+<hr class="iconHR">
 
 Finally, I would like to dedicate this...creation to several people without whom none of it could have been possible. To Keren, Yanai, Alon and Alona, the people who read through this shattered dream of words: the medium is too short to thank you or to express what your words and thoughts meant to me during this process. I love each of you a special love, tinted with its own colours and imperfections. Thank you.
 
@@ -33,6 +37,8 @@ Shall lure it back to cancel half a Line,
 Nor all thy Tears wash out a Word of it."
 
 -Rubáiyát of Omar Khayyám
+
+<hr class="iconHR">
 
 <ul id="collectionList" class="">
 {%- for post in collections.demented -%}

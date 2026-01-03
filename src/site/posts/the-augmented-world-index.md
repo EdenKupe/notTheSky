@@ -13,6 +13,8 @@ Thus, **The Augmented World** is my attempt to imagine a more beautiful world, m
 
 Below, you'll find all the pieces of it. It's a work in progress. Enjoy.
 
+<hr class="iconHR">
+
 <ul id="collectionList" class="">
 {%- for post in collections.augmented -%}
   <li><span>//</span><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>

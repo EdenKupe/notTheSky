@@ -9,6 +9,8 @@ layout: layouts/nihilo.njk
 
 <iframe title="Ex nihilo album stream" style="border: 0; width: 30%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3293077651/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://instar1.bandcamp.com/album/the-ex-nihilo-cycle">The **Ex Nihilo** Cycle by Instar</a></iframe>
 
+<hr class="iconHR">
+
 Here’s a short intro before you read:
 
 “Love is the ark appointed for the righteous,
@@ -17,6 +19,8 @@ Sell your cleverness and buy bewilderment.
 Cleverness is mere opinion, bewilderment intuition.”
 
 –Jalāl ad-Dīn Muhammad Rūmī
+
+<hr class="iconHR">
 
 <ul id="collectionList" class="">
 {%- for post in collections.nihilo -%}
