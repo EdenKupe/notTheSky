@@ -175,6 +175,10 @@ code {
 
 h2 {
   @apply text-offwhite text-6xl uppercase font-medium w-2/3;
+  text-decoration-line: underline;
+  text-decoration-color: #df0707;
+  text-decoration-thickness: 5px; 
+  text-underline-offset: 7px; /* Pushes the line slightly down from the text */
 }
 
 .light h2 {
