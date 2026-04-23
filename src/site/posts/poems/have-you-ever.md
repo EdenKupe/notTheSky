@@ -26,7 +26,7 @@ ever conceptualized your nerves as thousands</br>
 of sensors, coiled in brine,</br>
 ever considered you're like a tree</br>
 blowing in perennial breezes</br>
-prevailing winds of spatial configuration?</br>
+prevailing winds of location?</br>
 </br>
 have you ever reached out to another in anger</br>
 and found only reciprocity</br>
