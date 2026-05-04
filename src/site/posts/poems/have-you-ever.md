@@ -25,6 +25,7 @@ or a knife, or a brush</br>
 ever conceptualized your nerves as thousands</br>
 of sensors, coiled in brine,</br>
 ever considered you're like a tree</br>
+perhaps a pine</br>
 blowing in perennial breezes</br>
 prevailing winds of location?</br>
 </br>
